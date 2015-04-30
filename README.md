@@ -17,6 +17,20 @@
  - [SweetAlert for Android, a beautiful and clever alert dialog](https://github.com/pedant/sweet-alert-dialog)
  - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
  - [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+ - [安卓每个版本的Drawable图标](http://androiddrawables.com/)
+ - [FontAwesome字体图标安卓字符串](https://github.com/liltof/font-awsome-for-android)
+ - [色系](http://www.google.com/design/spec/style/color.html)
+ - [颜色库](https://github.com/MatthewYork/Colours)
+ - [IconFinder图标资源](https://www.iconfinder.com/)
+ - [阿里巴巴矢量图](http://www.iconfont.cn/)
+ - [AndroidAssetStudio](http://romannurik.github.io/AndroidAssetStudio/)
+ - [Android Holo颜色生成器](http://android-holo-colors.com/)
+ - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/)
+ - [在线.9.png图片生成器](http://romannurik.github.io/AndroidAssetStudio/nine-patches.html)
+ - [安卓button在线制作工具](http://angrytools.com/android/button/)
+ - [Theme.xml属性](http://omapzoom.org/?p=platform/frameworks/base.git;a=blob;f=core/res/res/values/themes.xml;hb=master)
+ - [移动APP云计算平台Parse](https://www.parse.com/)
+
 
 ### WEB
  - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
