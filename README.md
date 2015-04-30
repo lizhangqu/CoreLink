@@ -1,8 +1,31 @@
 ## 常用的github库地址
-### 安卓
+
+### 安卓orm框架
+ - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
+ - [SugarORM](http://satyan.github.io/sugar/index.html)
+ - [Siminov](http://siminov.github.io/android-orm/)
+ - [greenDAO](http://greendao-orm.com/)
+ - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml)
+ - [androrm](http://www.androrm.net/)
+ - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
+ 
+### 安卓网络请求相关
+ - [android-async-http](http://loopj.com/android-async-http/)
+ - [picasso](http://square.github.io/picasso/)
+ - [Volley](https://android.googlesource.com/platform/frameworks/volley)
+ - [robospice](https://github.com/stephanenicolas/robospice)
+ - [okhttp](https://github.com/square/okhttp)
+ - [fresco](https://github.com/facebook/fresco)
+
+### 安卓分享，反馈，支付等相关
+ - [友盟](http://www.umeng.com/)
+ - [sharesdk](http://mob.com/)
+ - [Ping++](https://pingxx.com)
+
+
+### 安卓相关
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
  - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
- - [Facebook图片加载库](https://github.com/facebook/fresco)
  - [工具库less code, more efficient for android](https://github.com/openproject/LessCode)
  - [FontAwesome for Android](https://github.com/JoanZapata/android-iconify)
  - [A powerful image downloading and caching library for Android](https://github.com/square/picasso)
