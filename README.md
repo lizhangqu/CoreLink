@@ -1,5 +1,36 @@
 ## 常用的github库地址
 
+### 国外个人博客
+ - [Jakewharton](http://jakewharton.com/blog)
+ - [Romain Guy](http://www.curious-creature.com/)
+ - [Cyril Mottier](http://cyrilmottier.com/)
+ - [Mark Allison](http://blog.stylingandroid.com/)
+ - [Daniel Lew](http://blog.danlew.net/)
+ - [Ravi Tamada](http://www.androidhive.info/)
+ - [Chris Nash](http://loseyourmarbles.co/about-me/)
+ - [juhani@fatrobot.io](http://www.androiduipatterns.com/)
+ - [Wolfram Rittmeyer](http://www.grokkingandroid.com/)
+ - [Rich Hyndman](http://geekyouup.blogspot.com/)
+
+### 安卓文章相关
+ - [slideshare](http://www.slideshare.net/)
+ - [androidweekly.net](http://androidweekly.net/)
+ - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
+ - [Android Guides](https://github.com/codepath/android_guides)
+ - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
+ - [Android Developers Blog](http://android-developers.blogspot.ca/)
+ - [vogella](http://www.vogella.com/tutorials/android.html)
+ - [tutorialspoint](http://www.tutorialspoint.com/android/)
+ - [tutsplus](http://code.tutsplus.com/categories/android-sdk)
+ - [oderzheaven](http://www.coderzheaven.com/android-tutorials/)
+ - [thenewcircle](https://thenewcircle.com/training/android/)
+ - [coreservlets](http://www.coreservlets.com/android-tutorial/)
+ - [Droid-Blog](http://droid-blog.net/)
+ - [coursera.org](https://www.coursera.org/)
+ - [commonsware.com](http://commonsware.com/blog/archive.html)
+ - [http://android.amberfog.com/](http://android.amberfog.com/)
+ - [anddev](http://www.anddev.org/)
+ - []()
 ### 安卓orm框架
  - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
  - [SugarORM](http://satyan.github.io/sugar/index.html)
@@ -9,7 +40,7 @@
  - [androrm](http://www.androrm.net/)
  - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
  
-### 安卓网络请求相关
+### 安卓网络(图片)请求相关
  - [android-async-http](http://loopj.com/android-async-http/)
  - [picasso](http://square.github.io/picasso/)
  - [Volley](https://android.googlesource.com/platform/frameworks/volley)
@@ -22,24 +53,23 @@
  - [sharesdk](http://mob.com/)
  - [Ping++](https://pingxx.com)
 
-
-### 安卓相关
- - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
- - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
+### 安卓其他库
  - [工具库less code, more efficient for android](https://github.com/openproject/LessCode)
- - [FontAwesome for Android](https://github.com/JoanZapata/android-iconify)
- - [A powerful image downloading and caching library for Android](https://github.com/square/picasso)
- - [一个动画集合库](https://github.com/daimajia/AndroidViewAnimations)
- - [android-log](https://github.com/SnowdreamFramework/android-log)
  - [通用适配器](https://github.com/JoanZapata/base-adapter-helper)
- - [Extensive Open-Source Guides for Android Developers](https://github.com/codepath/android_guides)
+ - [android-log](https://github.com/SnowdreamFramework/android-log)
+ - [SweetAlert for Android, a beautiful and clever alert dialog](https://github.com/pedant/sweet-alert-dialog)
+ - [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+ - [一个动画集合库](https://github.com/daimajia/AndroidViewAnimations)
+ - [FontAwesome for Android](https://github.com/JoanZapata/android-iconify)
+ - [RecyclerView made simple](https://github.com/lucasr/twoway-view)
+
+### ibeacon与蓝牙4.0相关
  - [一个ibeacon交互库](https://github.com/AltBeacon/android-beacon-library)
  - [AprilBeacon-Android-sdk](https://github.com/AprilBrother/AprilBeacon-Android-SDK)
  - [Estimote SDK](https://github.com/Estimote/Android-SDK)
- - [RecyclerView made simple](https://github.com/lucasr/twoway-view)
- - [SweetAlert for Android, a beautiful and clever alert dialog](https://github.com/pedant/sweet-alert-dialog)
  - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
- - [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+
+### 安卓资源相关
  - [安卓每个版本的Drawable图标](http://androiddrawables.com/)
  - [FontAwesome字体图标安卓字符串](https://github.com/liltof/font-awsome-for-android)
  - [色系](http://www.google.com/design/spec/style/color.html)
