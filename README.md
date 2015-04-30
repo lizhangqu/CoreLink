@@ -76,6 +76,7 @@
  - [jsoup库(java)](http://jsoup.org/)
  - [android-wheel](https://github.com/maarek/android-wheel)
  - [xUtils](https://github.com/wyouflf/xUtils)
+ - [android-common](https://github.com/Trinea/android-common)
  - [zxing](https://github.com/zxing/zxing)
 
 ### ibeacon与蓝牙4.0相关
