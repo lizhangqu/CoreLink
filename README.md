@@ -50,7 +50,7 @@
  - [okhttp](https://github.com/square/okhttp)
  - [fresco](https://github.com/facebook/fresco)
 
-### 安卓分享，反馈，支付等相关
+### 安卓分享，短信验证，反馈，支付等相关
  - [友盟](http://www.umeng.com/)
  - [sharesdk](http://mob.com/)
  - [Ping++](https://pingxx.com)
@@ -60,6 +60,9 @@
  - [通用适配器](https://github.com/JoanZapata/base-adapter-helper)
  - [android-log](https://github.com/SnowdreamFramework/android-log)
  - [NineOldAndroids](http://nineoldandroids.com/)
+ - [BadgeView ](https://github.com/jgilfelt/android-viewbadger)
+ - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+ - [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
  - [EventBus](https://github.com/greenrobot/EventBus)
  - [SweetAlert for Android, a beautiful and clever alert dialog](https://github.com/pedant/sweet-alert-dialog)
  - [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
@@ -68,6 +71,10 @@
  - [一个动画集合库](https://github.com/daimajia/AndroidViewAnimations)
  - [FontAwesome for Android](https://github.com/JoanZapata/android-iconify)
  - [RecyclerView made simple](https://github.com/lucasr/twoway-view)
+ - [jsoup库(java)](http://jsoup.org/)
+ - [android-wheel](https://github.com/maarek/android-wheel)
+ - [xUtils](https://github.com/wyouflf/xUtils)
+ - [zxing](https://github.com/zxing/zxing)
 
 ### ibeacon与蓝牙4.0相关
  - [一个ibeacon交互库](https://github.com/AltBeacon/android-beacon-library)
