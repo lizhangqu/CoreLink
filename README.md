@@ -12,10 +12,11 @@
  - [Wolfram Rittmeyer](http://www.grokkingandroid.com/)
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
-### 安卓文章相关
+### 安卓文章,下载相关
  - [slideshare](http://www.slideshare.net/)
  - [androidweekly.net](http://androidweekly.net/)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
+ - [AndroidDevTools开发相关资料下载](http://www.androiddevtools.cn/)
  - [Android Guides](https://github.com/codepath/android_guides)
  - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
  - [Android Developers Blog](http://android-developers.blogspot.ca/)
@@ -42,6 +43,7 @@
  
 ### 安卓网络(图片)请求相关
  - [android-async-http](http://loopj.com/android-async-http/)
+ - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
  - [picasso](http://square.github.io/picasso/)
  - [Volley](https://android.googlesource.com/platform/frameworks/volley)
  - [robospice](https://github.com/stephanenicolas/robospice)
@@ -57,8 +59,12 @@
  - [工具库less code, more efficient for android](https://github.com/openproject/LessCode)
  - [通用适配器](https://github.com/JoanZapata/base-adapter-helper)
  - [android-log](https://github.com/SnowdreamFramework/android-log)
+ - [NineOldAndroids](http://nineoldandroids.com/)
+ - [EventBus](https://github.com/greenrobot/EventBus)
  - [SweetAlert for Android, a beautiful and clever alert dialog](https://github.com/pedant/sweet-alert-dialog)
  - [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+ - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+ - [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
  - [一个动画集合库](https://github.com/daimajia/AndroidViewAnimations)
  - [FontAwesome for Android](https://github.com/JoanZapata/android-iconify)
  - [RecyclerView made simple](https://github.com/lucasr/twoway-view)
@@ -76,6 +82,7 @@
  - [颜色库](https://github.com/MatthewYork/Colours)
  - [IconFinder图标资源](https://www.iconfinder.com/)
  - [阿里巴巴矢量图](http://www.iconfont.cn/)
+ - [icomoon](https://icomoon.io/app/#/select)
  - [AndroidAssetStudio](http://romannurik.github.io/AndroidAssetStudio/)
  - [Android Holo颜色生成器](http://android-holo-colors.com/)
  - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/)
@@ -84,11 +91,17 @@
  - [Theme.xml属性](http://omapzoom.org/?p=platform/frameworks/base.git;a=blob;f=core/res/res/values/themes.xml;hb=master)
  - [移动APP云计算平台Parse](https://www.parse.com/)
 
+### git
+ - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
 ### WEB
+ - [yii](http://www.yiichina.com/)
+ - [yiibooster](http://yiibooster.clevertech.biz/)
  - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
  - [php_sae_storage](https://github.com/acczefly/php_sae_storage)
 
 ### 前端
+ - [Bootstrap](http://www.bootcss.com/)
  - [Font-Awesome字体图标](https://github.com/FortAwesome/Font-Awesome)
  - [sublime浏览器前缀插件](https://github.com/sindresorhus/sublime-autoprefixer)
  - [一个手势库](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
@@ -96,6 +109,7 @@
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
 
 ### 其他
+ - [开源中国在线工具](http://tool.oschina.net/)
  - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
  - [google-hosts](https://github.com/txthinking/google-hosts)
  - [hack_erya](https://github.com/Bpazy/hack_erya)
