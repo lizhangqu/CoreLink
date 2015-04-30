@@ -30,7 +30,7 @@
  - [commonsware.com](http://commonsware.com/blog/archive.html)
  - [http://android.amberfog.com/](http://android.amberfog.com/)
  - [anddev](http://www.anddev.org/)
- - []()
+
 ### 安卓orm框架
  - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
  - [SugarORM](http://satyan.github.io/sugar/index.html)
@@ -83,7 +83,6 @@
  - [安卓button在线制作工具](http://angrytools.com/android/button/)
  - [Theme.xml属性](http://omapzoom.org/?p=platform/frameworks/base.git;a=blob;f=core/res/res/values/themes.xml;hb=master)
  - [移动APP云计算平台Parse](https://www.parse.com/)
-
 
 ### WEB
  - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
