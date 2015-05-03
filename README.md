@@ -56,6 +56,8 @@
  - [fresco](https://github.com/facebook/fresco)
 
 ### 安卓分享，短信验证，反馈，支付等相关
+ - [蒲公英，内测应用](http://www.pgyer.com/)
+ - [fir.im，内测应用](http://fir.im/)
  - [友盟](http://www.umeng.com/)
  - [sharesdk](http://mob.com/)
  - [Ping++](https://pingxx.com)
