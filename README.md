@@ -57,9 +57,6 @@
  - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
  - [picasso](http://square.github.io/picasso/)
  - [android-async-http](http://loopj.com/android-async-http/)
- 
-
-
  - [fresco](https://github.com/facebook/fresco)
 
 ### 安卓分享，短信验证，反馈，支付等相关
