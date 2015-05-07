@@ -50,12 +50,16 @@
  - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
  
 ### 安卓网络(图片)请求相关
- - [android-async-http](http://loopj.com/android-async-http/)
+ - [Volley](https://android.googlesource.com/platform/frameworks/volley)
+ - [retrofit](https://github.com/square/retrofit)
+ - [okhttp](https://github.com/square/okhttp)
+ - [robospice](https://github.com/stephanenicolas/robospice)
  - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
  - [picasso](http://square.github.io/picasso/)
- - [Volley](https://android.googlesource.com/platform/frameworks/volley)
- - [robospice](https://github.com/stephanenicolas/robospice)
- - [okhttp](https://github.com/square/okhttp)
+ - [android-async-http](http://loopj.com/android-async-http/)
+ 
+
+
  - [fresco](https://github.com/facebook/fresco)
 
 ### 安卓分享，短信验证，反馈，支付等相关
