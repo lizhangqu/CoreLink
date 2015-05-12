@@ -17,6 +17,7 @@
  - [androidweekly.net](http://androidweekly.net/)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
  - [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis)
+ - [Android开源库集合](https://github.com/Trinea/android-open-project)
  - [open-source-project-analysis](http://www.codekk.com/open-source-project-analysis)
  - [开发过程中遇到的坑](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev)
  - [android 设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
