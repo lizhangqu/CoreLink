@@ -68,6 +68,7 @@
  - [Ping++](https://pingxx.com)
 
 ### 安卓其他库
+ - [EventBus](https://github.com/greenrobot/EventBus)
  - [ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView/)
  - [工具库less code, more efficient for android](https://github.com/openproject/LessCode)
  - [通用适配器](https://github.com/JoanZapata/base-adapter-helper)
