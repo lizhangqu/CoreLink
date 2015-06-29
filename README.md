@@ -1,6 +1,8 @@
 [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
 
 [图像处理教学](http://chiuki.github.io/android-shaders-filters)
+
+[百分比布局](https://github.com/JulienGenoud/android-percent-support-lib-sample)
 ## 常用的github库地址
 
 ### 国外个人博客
