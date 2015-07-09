@@ -18,6 +18,7 @@
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
 ### 安卓文章,下载相关
+ - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [slideshare](http://www.slideshare.net/)
  - [androidweekly.net](http://androidweekly.net/)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
