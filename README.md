@@ -1,3 +1,5 @@
+[google hosts](http://laod.cn/hosts/2015-google-hosts.html)
+
 [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
 
 [图像处理教学](http://chiuki.github.io/android-shaders-filters)
