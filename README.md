@@ -1,10 +1,4 @@
-[google hosts](http://laod.cn/hosts/2015-google-hosts.html)
 
-[Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
-
-[图像处理教学](http://chiuki.github.io/android-shaders-filters)
-
-[百分比布局](https://github.com/JulienGenoud/android-percent-support-lib-sample)
 ## 常用的github库地址
 
 ### 国外个人博客
@@ -20,6 +14,10 @@
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
 ### 安卓文章,下载相关
+ - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
+ - [android-best-practices](https://github.com/futurice/android-best-practices)
+ - [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
+ - [图像处理教学](http://chiuki.github.io/android-shaders-filters)
  - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [slideshare](http://www.slideshare.net/)
  - [androidweekly.net](http://androidweekly.net/)
@@ -76,6 +74,8 @@
  - [Ping++](https://pingxx.com)
 
 ### 安卓其他库
+ - [右滑返回SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
+ - [百分比布局](https://github.com/JulienGenoud/android-percent-support-lib-sample)
  - [EventBus](https://github.com/greenrobot/EventBus)
  - [ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView/)
  - [工具库less code, more efficient for android](https://github.com/openproject/LessCode)
@@ -139,6 +139,7 @@
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
 
 ### 其他
+ - [google hosts](http://laod.cn/hosts/2015-google-hosts.html)
  - [开源中国在线工具](http://tool.oschina.net/)
  - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
  - [google-hosts](https://github.com/txthinking/google-hosts)
