@@ -14,9 +14,12 @@
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
 ### 安卓文章,下载相关
+ - [gradle-publish](https://github.com/msdx/gradle-publish)
  - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
  - [android-best-practices](https://github.com/futurice/android-best-practices)
  - [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
+ - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
+ - [java设计模式](https://github.com/iluwatar/java-design-patterns)
  - [图像处理教学](http://chiuki.github.io/android-shaders-filters)
  - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [slideshare](http://www.slideshare.net/)
@@ -74,6 +77,8 @@
  - [Ping++](https://pingxx.com)
 
 ### 安卓其他库
+ 
+ - [MaterialDesign相关库](https://github.com/lightSky/Awesome-MaterialDesign)
  - [右滑返回SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
  - [百分比布局](https://github.com/JulienGenoud/android-percent-support-lib-sample)
  - [EventBus](https://github.com/greenrobot/EventBus)
