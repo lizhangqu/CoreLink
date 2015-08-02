@@ -1,6 +1,12 @@
 
 ## 常用的github库地址
 
+### 设计
+
+ - [https://dribbble.com/](https://dribbble.com/)
+ - [http://pttrns.com/](http://pttrns.com/)
+ - [http://capptivate.co/](http://capptivate.co/)
+ 
 ### 国外个人博客
  - [Jakewharton](http://jakewharton.com/blog)
  - [Romain Guy](http://www.curious-creature.com/)
