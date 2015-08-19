@@ -43,6 +43,7 @@
  - [Android开源库集合](https://github.com/Trinea/android-open-project)
  - [open-source-project-analysis](http://www.codekk.com/open-source-project-analysis)
  - [开发过程中遇到的坑](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev)
+ - [android-discuss](https://github.com/android-cn/android-discuss)
  - [android 设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
  - [Android著名开源库的简版实现](https://github.com/simple-android-framework-exchange/simple-android-opensource-framework)
  - [Android 开源交流](https://github.com/aosp-exchange-group/share)
