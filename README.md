@@ -27,6 +27,7 @@
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
 ### 安卓文章,下载相关
+ - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
  - [gradle-publish](https://github.com/msdx/gradle-publish)
  - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
