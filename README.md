@@ -26,6 +26,9 @@
  - [Wolfram Rittmeyer](http://www.grokkingandroid.com/)
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
+### Android Studio专题
+ - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
+
 ### 安卓文章,下载相关
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
