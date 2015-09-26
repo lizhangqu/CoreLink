@@ -51,8 +51,25 @@
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
-### Android IM
- - [https://github.com/mogujie/TeamTalk](https://github.com/mogujie/TeamTalk)
+### Android 推送（含IM）
+ - [环信，支持即时音视频](http://www.easemob.com/)
+ - [腾讯云通讯，支持即时音视频](http://www.qcloud.com/product/avc.html)
+ - [极光推送和IM](https://www.jpush.cn/)
+ - [个推](http://www.getui.com/)
+ - [小米推送，在MIUI上属于系统服务框架，共享系统级长连接](http://dev.xiaomi.com/doc/?page_id=1670)
+ - [百度云推送,部分机型收不到推送，如小米，Bug是否修复未知](http://push.baidu.com/)
+ - [腾讯信鸽推送](http://xg.qq.com/xg/)
+ - [友盟推送](https://www.umeng.com/push)
+ - [leancloud](https://leancloud.cn/)
+ - [蘑菇街TeamTalk](https://github.com/mogujie/TeamTalk)
+ - [Openfire+Smack开源Xmpp解决方案](http://www.igniterealtime.org/downloads/index.jsp)
+ 
+ 
+### Android后端等服务
+ - [parse，缺点是服务器在国外，速度慢](https://parse.com/)
+ - [leancloud，国内的，仿parse](https://leancloud.cn/)
+ - [Bmob后端云](http://www.bmob.cn/)
+ - [apicloud](http://www.apicloud.com/)
 
 ### 安卓文章,下载相关
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
