@@ -61,6 +61,7 @@
  - [腾讯信鸽推送](http://xg.qq.com/xg/)
  - [友盟推送](https://www.umeng.com/push)
  - [leancloud](https://leancloud.cn/)
+ - [bmob云推送，含IM](http://www.bmob.cn/products)
  - [蘑菇街TeamTalk](https://github.com/mogujie/TeamTalk)
  - [Openfire+Smack开源Xmpp解决方案](http://www.igniterealtime.org/downloads/index.jsp)
  
@@ -69,7 +70,55 @@
  - [parse，缺点是服务器在国外，速度慢](https://parse.com/)
  - [leancloud，国内的，仿parse](https://leancloud.cn/)
  - [Bmob后端云](http://www.bmob.cn/)
+ - [七牛云存储](http://www.qiniu.com/)
  - [apicloud](http://www.apicloud.com/)
+ 
+### Android 应用内测平台
+ - [蒲公英，内测应用](http://www.pgyer.com/)
+ - [Fir.im，内测应用](http://fir.im/)
+
+### Android社会化分享，短信验证，意见反馈，支付等相关
+
+ - [友盟,社会化分析，意见反馈](http://www.umeng.com/)
+ - [Sharesdk，社会化分析](http://mob.com/)
+ - [Ping++，支付](https://pingxx.com)
+ - [bmob支付，Bmob为广大开发人员提供的统一、正规的收费手段，让没有企业认证的个人开发者，也能通过支付宝和微信向用户收费](http://docs.bmob.cn/androidpay/index.html?menukey=fast_start&key=start_android_pay)
+ - [容联云通讯](http://www.yuntongxun.com/ability/toPriceTariff)
+
+### 安卓网络层(图含图片)
+ - [okhttp](https://github.com/square/okhttp)
+ - [retrofit](https://github.com/square/retrofit)
+ - [picasso](http://square.github.io/picasso/)
+ - [Volley](https://android.googlesource.com/platform/frameworks/volley)
+ - [fresco](https://github.com/facebook/fresco)
+ - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+ - [robospice](https://github.com/stephanenicolas/robospice)
+ - [android-async-http](http://loopj.com/android-async-http/)
+
+
+### 安卓orm框架，用得比较多的就GreenDao，Ormlite
+ - [greenDAO](http://greendao-orm.com/)
+ - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml)
+ - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
+ - [SugarORM](http://satyan.github.io/sugar/index.html)
+ - [Siminov](http://siminov.github.io/android-orm/)
+ - [androrm](http://www.androrm.net/)
+ - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
+ 
+### 安卓Json解析
+ - [Gson,用法简单，速度慢](https://github.com/google/gson)
+ - [fastjson，号称最快](https://github.com/alibaba/fastjson)
+ - [jackson](https://github.com/FasterXML/jackson)
+ 
+
+### Android插件化开发与动态加载
+ - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
+ - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+ - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+
+### Android 热更新
+ - [dexposed](https://github.com/alibaba/dexposed)
+ - [AndFix](https://github.com/alibaba/AndFix)
 
 ### 安卓文章,下载相关
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
@@ -111,31 +160,11 @@
  - [http://android.amberfog.com/](http://android.amberfog.com/)
  - [anddev](http://www.anddev.org/)
 
-### 安卓orm框架
- - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
- - [SugarORM](http://satyan.github.io/sugar/index.html)
- - [Siminov](http://siminov.github.io/android-orm/)
- - [greenDAO](http://greendao-orm.com/)
- - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml)
- - [androrm](http://www.androrm.net/)
- - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
- 
-### 安卓网络(图片)请求相关
- - [Volley](https://android.googlesource.com/platform/frameworks/volley)
- - [retrofit](https://github.com/square/retrofit)
- - [okhttp](https://github.com/square/okhttp)
- - [robospice](https://github.com/stephanenicolas/robospice)
- - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
- - [picasso](http://square.github.io/picasso/)
- - [android-async-http](http://loopj.com/android-async-http/)
- - [fresco](https://github.com/facebook/fresco)
 
-### 安卓分享，短信验证，反馈，支付等相关
- - [蒲公英，内测应用](http://www.pgyer.com/)
- - [fir.im，内测应用](http://fir.im/)
- - [友盟](http://www.umeng.com/)
- - [sharesdk](http://mob.com/)
- - [Ping++](https://pingxx.com)
+ 
+
+
+
 
 ### 安卓其他库
  
