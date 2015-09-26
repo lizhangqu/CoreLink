@@ -1,30 +1,19 @@
 
-## 常用的github库地址
+## Android 开发中的日常积累
 
-### Android NoSql
+### Android 性能优化
+ - [Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
+ - [Android最佳性能实践(1)：合理管理内存](http://android.jobbole.com/81239/)
+ - [Android最佳性能实践(2)：分析内存的使用情况](http://android.jobbole.com/81242/)
+ - [Android最佳性能实践(3)：高性能编码优化](http://android.jobbole.com/81245/)
+ - [Android最佳性能实践(4)：布局优化技巧](http://android.jobbole.com/81248/)
 
- - [realm-java](https://github.com/realm/realm-java)
- - [couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
- - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
- - [SnappyDB](https://github.com/nhachicha/SnappyDB/)
 
-### 设计网站
-
- - [https://dribbble.com/](https://dribbble.com/)
- - [http://pttrns.com/](http://pttrns.com/)
- - [http://capptivate.co/](http://capptivate.co/)
- 
-### 国外个人博客
- - [Jakewharton](http://jakewharton.com/blog)
- - [Romain Guy](http://www.curious-creature.com/)
- - [Cyril Mottier](http://cyrilmottier.com/)
- - [Mark Allison](http://blog.stylingandroid.com/)
- - [Daniel Lew](http://blog.danlew.net/)
- - [Ravi Tamada](http://www.androidhive.info/)
- - [Chris Nash](http://loseyourmarbles.co/about-me/)
- - [juhani@fatrobot.io](http://www.androiduipatterns.com/)
- - [Wolfram Rittmeyer](http://www.grokkingandroid.com/)
- - [Rich Hyndman](http://geekyouup.blogspot.com/)
+### Android 加固与反编译
+ - [Apktool](http://ibotpeaches.github.io/Apktool/)
+ - [dex2jar](http://sourceforge.net/projects/dex2jar/)
+ - [DecompileApk](https://github.com/MasonLiuChn/DecompileApk)
+ - [Android APK加固技术方案调研](http://www.jianshu.com/p/856bf5b437aa)
 
 ### Android Studio专题
  - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
@@ -50,6 +39,44 @@
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
+
+
+### Android 开发中值得看的优秀内容和工具
+ - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
+ - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
+ - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
+ - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
+ - [Android Guides](https://github.com/codepath/android_guides)
+ - [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+ - [Android 图像处理教学](http://chiuki.github.io/android-shaders-filters)
+ - [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project) 
+ - [开发过程中遇到的坑](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev)
+ - [Android 开源交流](https://github.com/aosp-exchange-group/share)
+ - [Android 著名开源库的简版实现](https://github.com/simple-android-framework-exchange/simple-android-opensource-framework)
+ - [Android 问题交流讨论，大部分是面试题](https://github.com/android-cn/android-discuss) 
+ - [android 设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
+ - [Android 全国职位列表](https://github.com/android-cn/android-jobs)
+ - [fuck-2014-flirt-2015](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
+ - [AndroidDevTools开发相关资料下载](http://www.androiddevtools.cn/)
+ - [android-best-practices最佳实践](https://github.com/futurice/android-best-practices)
+ - [Facebook的react-native](http://facebook.github.io/react-native/)
+ - [java设计模式](https://github.com/iluwatar/java-design-patterns)
+
+ 
+### Android 开源软件
+ - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
+ - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
+ - [第三方github客户端](https://github.com/Leaking/WeGit)
+ - [开源中国的系列软件](http://git.oschina.net/oschina/)
+
+
+### Android 开发辅助工具
+ - [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
+ - [slideshare](http://www.slideshare.net/)
+ - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
+ - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
+
+
 
 ### Android 推送（含IM）
  - [环信，支持即时音视频](http://www.easemob.com/)
@@ -120,54 +147,7 @@
  - [dexposed](https://github.com/alibaba/dexposed)
  - [AndFix](https://github.com/alibaba/AndFix)
 
-### 安卓文章,下载相关
- - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
- - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
-
- - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
- - [android-best-practices](https://github.com/futurice/android-best-practices)
- - [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
- - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
- - [java设计模式](https://github.com/iluwatar/java-design-patterns)
- - [图像处理教学](http://chiuki.github.io/android-shaders-filters)
- - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)
- - [slideshare](http://www.slideshare.net/)
- - [androidweekly.net](http://androidweekly.net/)
- - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
- - [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis)
- - [Android开源库集合](https://github.com/Trinea/android-open-project)
- - [open-source-project-analysis](http://www.codekk.com/open-source-project-analysis)
- - [开发过程中遇到的坑](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev)
- - [android-discuss](https://github.com/android-cn/android-discuss)
- - [android 设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
- - [Android著名开源库的简版实现](https://github.com/simple-android-framework-exchange/simple-android-opensource-framework)
- - [Android 开源交流](https://github.com/aosp-exchange-group/share)
- - [android-jobs](https://github.com/android-cn/android-jobs)
- - [fuck-2014-flirt-2015](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
- - [AndroidDevTools开发相关资料下载](http://www.androiddevtools.cn/)
- - [Android Guides](https://github.com/codepath/android_guides)
- - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
- - [Android Developers Blog](http://android-developers.blogspot.ca/)
- - [vogella](http://www.vogella.com/tutorials/android.html)
- - [tutorialspoint](http://www.tutorialspoint.com/android/)
- - [tutsplus](http://code.tutsplus.com/categories/android-sdk)
- - [oderzheaven](http://www.coderzheaven.com/android-tutorials/)
- - [thenewcircle](https://thenewcircle.com/training/android/)
- - [coreservlets](http://www.coreservlets.com/android-tutorial/)
- - [Droid-Blog](http://droid-blog.net/)
- - [coursera.org](https://www.coursera.org/)
- - [commonsware.com](http://commonsware.com/blog/archive.html)
- - [http://android.amberfog.com/](http://android.amberfog.com/)
- - [anddev](http://www.anddev.org/)
-
-
- 
-
-
-
-
-### 安卓其他库
- 
+### 安卓开发值得关注的库
  - [MaterialDesign相关库](https://github.com/lightSky/Awesome-MaterialDesign)
  - [右滑返回SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
  - [百分比布局](https://github.com/JulienGenoud/android-percent-support-lib-sample)
@@ -193,12 +173,8 @@
  - [xUtils](https://github.com/wyouflf/xUtils)
  - [android-common](https://github.com/Trinea/android-common)
  - [zxing](https://github.com/zxing/zxing)
-
-### ibeacon与蓝牙4.0相关
- - [一个ibeacon交互库](https://github.com/AltBeacon/android-beacon-library)
- - [AprilBeacon-Android-sdk](https://github.com/AprilBrother/AprilBeacon-Android-SDK)
- - [Estimote SDK](https://github.com/Estimote/Android-SDK)
- - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
+ - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
+ - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
 
 ### 安卓资源相关
  - [安卓每个版本的Drawable图标](http://androiddrawables.com/)
@@ -219,13 +195,63 @@
 ### git
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
-### WEB
+
+### Android NoSql
+
+ - [realm-java](https://github.com/realm/realm-java)
+ - [couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
+ - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
+ - [SnappyDB](https://github.com/nhachicha/SnappyDB/)
+
+### 设计网站，可以寻找一些酷炫的设计稿
+
+ - [https://dribbble.com/](https://dribbble.com/)
+ - [http://pttrns.com/](http://pttrns.com/)
+ - [http://capptivate.co/](http://capptivate.co/)
+
+### 国外个人博客
+ - [Jakewharton](http://jakewharton.com/blog)
+ - [Romain Guy](http://www.curious-creature.com/)
+ - [Cyril Mottier](http://cyrilmottier.com/)
+ - [Mark Allison](http://blog.stylingandroid.com/)
+ - [Daniel Lew](http://blog.danlew.net/)
+ - [Ravi Tamada](http://www.androidhive.info/)
+ - [Chris Nash](http://loseyourmarbles.co/about-me/)
+ - [juhani@fatrobot.io](http://www.androiduipatterns.com/)
+ - [Wolfram Rittmeyer](http://www.grokkingandroid.com/)
+ - [Rich Hyndman](http://geekyouup.blogspot.com/)
+
+
+### 国外的一些优秀网站
+ - [androidweekly.net](http://androidweekly.net/)
+ - [Android Developers Blog](http://android-developers.blogspot.ca/)
+ - [vogella](http://www.vogella.com/tutorials/android.html)
+ - [tutorialspoint](http://www.tutorialspoint.com/android/)
+ - [tutsplus](http://code.tutsplus.com/categories/android-sdk)
+ - [oderzheaven](http://www.coderzheaven.com/android-tutorials/)
+ - [thenewcircle](https://thenewcircle.com/training/android/)
+ - [coreservlets](http://www.coreservlets.com/android-tutorial/)
+ - [Droid-Blog](http://droid-blog.net/)
+ - [coursera.org](https://www.coursera.org/)
+ - [commonsware.com](http://commonsware.com/blog/archive.html)
+ - [http://android.amberfog.com/](http://android.amberfog.com/)
+ - [anddev](http://www.anddev.org/)
+
+
+### Ibeacon与蓝牙4.0相关
+ - [一个ibeacon交互库](https://github.com/AltBeacon/android-beacon-library)
+ - [AprilBeacon-Android-sdk](https://github.com/AprilBrother/AprilBeacon-Android-SDK)
+ - [Estimote SDK](https://github.com/Estimote/Android-SDK)
+ - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
+
+
+### WEB相关
  - [yii](http://www.yiichina.com/)
  - [yiibooster](http://yiibooster.clevertech.biz/)
  - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
  - [php_sae_storage](https://github.com/acczefly/php_sae_storage)
 
-### 前端
+### 前端相关
  - [Bootstrap](http://www.bootcss.com/)
  - [Font-Awesome字体图标](https://github.com/FortAwesome/Font-Awesome)
  - [sublime浏览器前缀插件](https://github.com/sindresorhus/sublime-autoprefixer)
@@ -237,6 +263,5 @@
  - [google hosts](http://laod.cn/hosts/2015-google-hosts.html)
  - [开源中国在线工具](http://tool.oschina.net/)
  - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
- - [google-hosts](https://github.com/txthinking/google-hosts)
  - [hack_erya](https://github.com/Bpazy/hack_erya)
  - [owncloud](https://github.com/owncloud/)
