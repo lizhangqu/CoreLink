@@ -112,7 +112,7 @@
  - [bmob支付，Bmob为广大开发人员提供的统一、正规的收费手段，让没有企业认证的个人开发者，也能通过支付宝和微信向用户收费](http://docs.bmob.cn/androidpay/index.html?menukey=fast_start&key=start_android_pay)
  - [容联云通讯](http://www.yuntongxun.com/ability/toPriceTariff)
 
-### 安卓网络层(图含图片)
+### 安卓网络层(包含图片)
  - [okhttp](https://github.com/square/okhttp)
  - [retrofit](https://github.com/square/retrofit)
  - [picasso](http://square.github.io/picasso/)
