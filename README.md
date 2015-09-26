@@ -1,14 +1,14 @@
 
 ## 常用的github库地址
 
-### NoSql
+### Android NoSql
 
  - [realm-java](https://github.com/realm/realm-java)
  - [couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
  - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
  - [SnappyDB](https://github.com/nhachicha/SnappyDB/)
 
-### 设计
+### 设计网站
 
  - [https://dribbble.com/](https://dribbble.com/)
  - [http://pttrns.com/](http://pttrns.com/)
@@ -27,7 +27,29 @@
  - [Rich Hyndman](http://geekyouup.blogspot.com/)
 
 ### Android Studio专题
+ - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
  - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
+ - [Android-Drawable-Importer插件](https://github.com/winterDroid/android-drawable-importer-intellij-plugin)
+ - [GsonFormat Json对应的Bean快速生成插件](https://github.com/zzz40500/GsonFormat)
+ - [android-selector-chapek Selector生成插件](https://github.com/inmite/android-selector-chapek)
+ - [快速生成butterknife注解插件](https://github.com/avast/android-butterknife-zelezny)
+ - [android-material-design-icon-generator图标插件](https://github.com/konifar/android-material-design-icon-generator-plugin)
+ - [Retrolambda 在java 6 7中使用 lambda表达式插件](https://github.com/evant/gradle-retrolambda)
+ - [Gradle依赖自动补齐插件](https://github.com/ligi/GradleDependenciesHelperPlugin)
+ - [idea-markdown编辑器插件](https://github.com/nicoulaj/idea-markdown)
+ - [从布局中生成View的声明插件](https://github.com/Haehnchen/idea-android-studio-plugin)
+ - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
+ - [布局文件分组插件](https://github.com/dmytrodanylyk/folding-plugin)
+ - [DPI计算插件](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
+ - [gradle-publish 发布库插件](https://github.com/msdx/gradle-publish)
+ - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
+ - [android-studio-tips-tricks-moving-around/](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
+ - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
 ### Android IM
  - [https://github.com/mogujie/TeamTalk](https://github.com/mogujie/TeamTalk)
@@ -35,7 +57,7 @@
 ### 安卓文章,下载相关
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
- - [gradle-publish](https://github.com/msdx/gradle-publish)
+
  - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
  - [android-best-practices](https://github.com/futurice/android-best-practices)
  - [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
