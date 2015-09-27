@@ -160,7 +160,6 @@
  - [BadgeView ](https://github.com/jgilfelt/android-viewbadger)
  - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
  - [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
- - [EventBus](https://github.com/greenrobot/EventBus)
  - [SweetAlert for Android, a beautiful and clever alert dialog](https://github.com/pedant/sweet-alert-dialog)
  - [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
  - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
