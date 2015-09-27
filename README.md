@@ -46,7 +46,9 @@
 
 
 ### Android 开发中值得看的优秀内容和工具
+ - [开发技术前线](http://www.devtf.cn/)
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
+ - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
  - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
@@ -72,6 +74,7 @@
  - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
  - [第三方github客户端](https://github.com/Leaking/WeGit)
  - [开源中国的系列软件](http://git.oschina.net/oschina/)
+ - [体重档案](https://github.com/Jhuster/EWeightScale)
 
 
 ### Android 开发辅助工具
@@ -79,6 +82,7 @@
  - [slideshare](http://www.slideshare.net/)
  - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
  - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
+ - [Browser extension to display GitHub code in tree format](https://github.com/buunguyen/octotree)
 
 
 
