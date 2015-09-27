@@ -11,6 +11,7 @@
 
 
 ### Android 加固与反编译
+ - [android反编译工具的合集](https://github.com/Juude/droidReverse)
  - [Apktool](http://ibotpeaches.github.io/Apktool/)
  - [dex2jar](http://sourceforge.net/projects/dex2jar/)
  - [DecompileApk](https://github.com/MasonLiuChn/DecompileApk)
