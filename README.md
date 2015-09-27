@@ -2,6 +2,7 @@
 ## Android 开发中的日常积累
 
 ### Android 性能优化
+ - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
  - [Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
  - [Android最佳性能实践(1)：合理管理内存](http://android.jobbole.com/81239/)
  - [Android最佳性能实践(2)：分析内存的使用情况](http://android.jobbole.com/81242/)
