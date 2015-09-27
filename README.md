@@ -68,6 +68,11 @@
  - [android-best-practices最佳实践](https://github.com/futurice/android-best-practices)
  - [Facebook的react-native](http://facebook.github.io/react-native/)
  - [java设计模式](https://github.com/iluwatar/java-design-patterns)
+ - [Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices)
+ - [Android 中 Java 与JavaScript 交互最详尽的总结](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/?comefrom=http://blogread.cn/news/)
+ - [如何为drawable着色](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0824/3356.html)
+ - [Drawable 着色的后向兼容方案](http://www.race604.com/tint-drawable/)
+ - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
  
 ### Android 开源软件
@@ -76,6 +81,8 @@
  - [第三方github客户端](https://github.com/Leaking/WeGit)
  - [开源中国的系列软件](http://git.oschina.net/oschina/)
  - [体重档案](https://github.com/Jhuster/EWeightScale)
+ - [Simplifyreader](http://skillcollege.github.io/SimplifyReader/)
+ - [西源坊](https://github.com/lzjun567/XiYuanFangApp)
 
 
 ### Android 开发辅助工具
@@ -157,6 +164,7 @@
  - [AndFix](https://github.com/alibaba/AndFix)
 
 ### 安卓开发值得关注的库
+ - [Android对话框](https://github.com/H07000223/FlycoDialog_Master)
  - [扩展的RecyclerView，拥有添加头、底等多种操作](https://github.com/tianzhijiexian/ExRecyclerView/)
  - [MaterialDesign相关库](https://github.com/lightSky/Awesome-MaterialDesign)
  - [右滑返回SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
@@ -184,6 +192,7 @@
  - [zxing](https://github.com/zxing/zxing)
  - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
  - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
+ - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
 
 ### 安卓资源相关
  - [安卓每个版本的Drawable图标](http://androiddrawables.com/)
