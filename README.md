@@ -16,6 +16,7 @@
  - [Android APK加固技术方案调研](http://www.jianshu.com/p/856bf5b437aa)
 
 ### Android Studio专题
+ - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
  - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
  - [Android-Drawable-Importer插件](https://github.com/winterDroid/android-drawable-importer-intellij-plugin)
