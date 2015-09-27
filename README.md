@@ -150,6 +150,7 @@
  - [AndFix](https://github.com/alibaba/AndFix)
 
 ### 安卓开发值得关注的库
+ - [扩展的RecyclerView，拥有添加头、底等多种操作](https://github.com/tianzhijiexian/ExRecyclerView/)
  - [MaterialDesign相关库](https://github.com/lightSky/Awesome-MaterialDesign)
  - [右滑返回SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
  - [百分比布局](https://github.com/JulienGenoud/android-percent-support-lib-sample)
