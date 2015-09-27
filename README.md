@@ -46,6 +46,7 @@
 
 
 ### Android 开发中值得看的优秀内容和工具
+ - [InfoQAndroid周报](http://www.infoq.com/cn/android-weekly/)
  - [开发技术前线](http://www.devtf.cn/)
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
  - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
