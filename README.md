@@ -33,6 +33,7 @@
  - [布局文件分组插件](https://github.com/dmytrodanylyk/folding-plugin)
  - [DPI计算插件](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
  - [gradle-publish 发布库插件](https://github.com/msdx/gradle-publish)
+ - [发布lib到jcenter](https://github.com/andforce/release-android-lib-to-jcenter)
  - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
  - [android-studio-tips-tricks-moving-around/](http://www.developerphil.com/android-studio-tips-tricks-moving-around/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
