@@ -44,12 +44,15 @@
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
+### RxJava与RxAndroid学习资源
+ - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
+ - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
+ - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
+ - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 
 ### Android 开发中值得看的优秀内容和工具
  - [InfoQAndroid周报](http://www.infoq.com/cn/android-weekly/)
  - [开发技术前线](http://www.devtf.cn/)
- - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
- - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
  - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
@@ -91,9 +94,11 @@
  - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
  - [vysor 这个是Chrome的插件，电脑操作手机](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)
  - [Browser extension to display GitHub code in tree format](https://github.com/buunguyen/octotree)
+ - [google hosts翻墙，有vpn的忽略](http://laod.cn/hosts/2015-google-hosts.html)
+ - [开源中国在线工具](http://tool.oschina.net/)
+ - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
 
-
-
+ 
 ### Android 推送（含IM）
  - [环信，支持即时音视频](http://www.easemob.com/)
  - [腾讯云通讯，支持即时音视频](http://www.qcloud.com/product/avc.html)
@@ -193,7 +198,9 @@
  - [Android开发常用整理](https://github.com/wangjiegulu/AndroidBucket)
  - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
  - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
+ - [owncloud](https://github.com/owncloud/)
 
+ 
 ### 安卓资源相关
  - [安卓每个版本的Drawable图标](http://androiddrawables.com/)
  - [FontAwesome字体图标安卓字符串](https://github.com/liltof/font-awsome-for-android)
@@ -263,13 +270,11 @@
  - [蓝牙4.0相关](https://github.com/devunwired/accessory-samples)
 
 
-### WEB相关
+### WEB与前端相关
  - [yii](http://www.yiichina.com/)
  - [yiibooster](http://yiibooster.clevertech.biz/)
  - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk)
  - [php_sae_storage](https://github.com/acczefly/php_sae_storage)
-
-### 前端相关
  - [Bootstrap](http://www.bootcss.com/)
  - [Font-Awesome字体图标](https://github.com/FortAwesome/Font-Awesome)
  - [sublime浏览器前缀插件](https://github.com/sindresorhus/sublime-autoprefixer)
@@ -277,9 +282,3 @@
  - [bootstrap-filestyle](https://github.com/markusslima/bootstrap-filestyle)
  - [基于Codeigniter的CMS系统](https://github.com/znddzxx112/bitcms)
 
-### 其他
- - [google hosts](http://laod.cn/hosts/2015-google-hosts.html)
- - [开源中国在线工具](http://tool.oschina.net/)
- - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
- - [hack_erya](https://github.com/Bpazy/hack_erya)
- - [owncloud](https://github.com/owncloud/)
