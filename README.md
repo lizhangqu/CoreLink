@@ -8,6 +8,10 @@
  - [Android最佳性能实践(2)：分析内存的使用情况](http://android.jobbole.com/81242/)
  - [Android最佳性能实践(3)：高性能编码优化](http://android.jobbole.com/81245/)
  - [Android最佳性能实践(4)：布局优化技巧](http://android.jobbole.com/81248/)
+ - [Android性能优化典范（一）](http://www.csdn.net/article/2015-01-20/2823621-android-performance-patterns)
+ - [Android性能优化典范（二）](http://www.csdn.net/article/2015-04-29/2824583-android-performance-patterns-season-2)
+ - [Android性能优化典范（三）](http://www.csdn.net/article/2015-08-12/2825447-android-performance-patterns-season-3)
+ - [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 
 
 ### Android 加固与反编译
