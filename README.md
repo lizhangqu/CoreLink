@@ -13,6 +13,10 @@
  - [Android性能优化典范（三）](http://www.csdn.net/article/2015-08-12/2825447-android-performance-patterns-season-3)
  - [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 
+### React Native 专题
+ - [Facebook的react-native](http://facebook.github.io/react-native/)
+ - [React Native: 配置和起步](http://www.liaohuqiu.net/cn/posts/react-native-1/)
+ - [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
 
 ### Android 加固与反编译
  - [android反编译工具的合集](https://github.com/Juude/droidReverse)
@@ -73,7 +77,6 @@
  - [fuck-2014-flirt-2015](https://github.com/aosp-exchange-group/fuck-2014-flirt-2015)
  - [AndroidDevTools开发相关资料下载](http://www.androiddevtools.cn/)
  - [android-best-practices最佳实践](https://github.com/futurice/android-best-practices)
- - [Facebook的react-native](http://facebook.github.io/react-native/)
  - [java设计模式](https://github.com/iluwatar/java-design-patterns)
  - [Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices)
  - [Android 中 Java 与JavaScript 交互最详尽的总结](http://droidyue.com/blog/2014/09/20/interaction-between-java-and-javascript-in-android/?comefrom=http://blogread.cn/news/)
