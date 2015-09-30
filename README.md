@@ -18,6 +18,7 @@
  - [React Native: 配置和起步](http://www.liaohuqiu.net/cn/posts/react-native-1/)
  - [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
  - [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
+ - [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native)
 
 ### Android 加固与反编译
  - [android反编译工具的合集](https://github.com/Juude/droidReverse)
