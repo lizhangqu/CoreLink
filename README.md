@@ -88,6 +88,7 @@
  - [Android 面试题InterviewQuestion](https://github.com/lizhangqu/InterviewQuestion)
  - [awesome-android](https://github.com/JStumpp/awesome-android)
  - [Retrofit相关文章](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
+ - [Lite Android](http://litesuits.com/)
 
  
 ### Android 开源软件
