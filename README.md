@@ -3,15 +3,12 @@
 
 ### Android 性能优化
  - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
- - [Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1#0-tsina-1-84552-397232819ff9a47a7b7e80a40613cfe1)
- - [Android最佳性能实践(1)：合理管理内存](http://android.jobbole.com/81239/)
- - [Android最佳性能实践(2)：分析内存的使用情况](http://android.jobbole.com/81242/)
- - [Android最佳性能实践(3)：高性能编码优化](http://android.jobbole.com/81245/)
- - [Android最佳性能实践(4)：布局优化技巧](http://android.jobbole.com/81248/)
- - [Android性能优化典范（一）](http://www.csdn.net/article/2015-01-20/2823621-android-performance-patterns)
- - [Android性能优化典范（二）](http://www.csdn.net/article/2015-04-29/2824583-android-performance-patterns-season-2)
- - [Android性能优化典范（三）](http://www.csdn.net/article/2015-08-12/2825447-android-performance-patterns-season-3)
- - [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
+ - [胡凯-性能优化](http://hukai.me/blog/archives/)
+ - [Android最佳性能实践(1)：合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)
+ - [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
+ - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
+ - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
+
 
 ### React Native 专题
  - [Facebook的react-native](http://facebook.github.io/react-native/)
@@ -109,6 +106,7 @@
  - [Browser extension to display GitHub code in tree format](https://github.com/buunguyen/octotree)
  - [google hosts翻墙，有vpn的忽略](http://laod.cn/hosts/2015-google-hosts.html)
  - [开源中国在线工具](http://tool.oschina.net/)
+ - [百度ApiStore](http://apistore.baidu.com/)
  - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
 
  
@@ -182,6 +180,9 @@
  - [AndFix](https://github.com/alibaba/AndFix)
 
 ### 安卓开发值得关注的库
+ - [sync adapter](https://github.com/taoliuh/v2ex)
+ - [Android Weak Handler防止内存泄露](https://github.com/badoo/android-weak-handler)
+ - [Android Priority Job Queue 异步任务调度](https://github.com/path/android-priority-jobqueue)
  - [Android对话框](https://github.com/H07000223/FlycoDialog_Master)
  - [扩展的RecyclerView，拥有添加头、底等多种操作](https://github.com/tianzhijiexian/ExRecyclerView/)
  - [MaterialDesign相关库](https://github.com/lightSky/Awesome-MaterialDesign)
