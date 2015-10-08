@@ -56,11 +56,13 @@
  - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
  - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
+ - [在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
 
 ### Android 开发中值得看的优秀内容和工具
  - [InfoQAndroid周报](http://www.infoq.com/cn/android-weekly/)
  - [开发技术前线](http://www.devtf.cn/)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
+ - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
  - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
  - [Android Guides](https://github.com/codepath/android_guides)
@@ -180,6 +182,7 @@
  - [AndFix](https://github.com/alibaba/AndFix)
 
 ### 安卓开发值得关注的库
+ - [SugarTask](https://github.com/mthli/SugarTask)
  - [sync adapter](https://github.com/taoliuh/v2ex)
  - [Android Weak Handler防止内存泄露](https://github.com/badoo/android-weak-handler)
  - [Android Priority Job Queue 异步任务调度](https://github.com/path/android-priority-jobqueue)
