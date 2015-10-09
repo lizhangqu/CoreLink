@@ -23,6 +23,7 @@
  - [dex2jar](http://sourceforge.net/projects/dex2jar/)
  - [DecompileApk](https://github.com/MasonLiuChn/DecompileApk)
  - [Android APK加固技术方案调研](http://www.jianshu.com/p/856bf5b437aa)
+ - [Android apk包res 资源混淆工具](https://github.com/joker535/Baffle)
 
 ### Android Studio专题
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
