@@ -17,6 +17,7 @@
  - [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
  - [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native)
  - [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
+ - [react-native-viewpager](https://github.com/race604/react-native-viewpager)
 
 ### Android 加固与反编译
  - [android反编译工具的合集](https://github.com/Juude/droidReverse)
@@ -25,6 +26,8 @@
  - [DecompileApk](https://github.com/MasonLiuChn/DecompileApk)
  - [Android APK加固技术方案调研](http://www.jianshu.com/p/856bf5b437aa)
  - [Android apk包res 资源混淆工具](https://github.com/joker535/Baffle)
+ - [微信资源混淆](https://github.com/shwenzhang/AndResGuard)
+ - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
 
 ### Android Studio专题
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
@@ -52,6 +55,8 @@
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
+ - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
+ - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
 
 ### RxJava与RxAndroid学习资源
  - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
@@ -59,12 +64,12 @@
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
  - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
  - [在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
+ - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 ### Android 开发中值得看的优秀内容和工具
  - [InfoQAndroid周报](http://www.infoq.com/cn/android-weekly/)
  - [开发技术前线](http://www.devtf.cn/)
  - [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
- - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
  - [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese)
  - [一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/bboyfeiyu/android-tech-frontier)
  - [Android Guides](https://github.com/codepath/android_guides)
@@ -112,6 +117,7 @@
  - [开源中国在线工具](http://tool.oschina.net/)
  - [百度ApiStore](http://apistore.baidu.com/)
  - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
+ - [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 
  
 ### Android 推送（含IM）
@@ -238,6 +244,7 @@
 
 ### git
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+ - [用 Git Hooks 进行自动部署](http://segmentfault.com/a/1190000003836345?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 
 
 ### Android NoSql
