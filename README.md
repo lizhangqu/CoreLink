@@ -184,10 +184,15 @@
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+ - [携程DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
+ - [美团分包](http://tech.meituan.com/mt-android-auto-split-dex.html)
+ - [微信/手Q加载方案](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
  - [AndFix](https://github.com/alibaba/AndFix)
+ - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
+ - [QQ空间热修复实现方案](https://github.com/dodola/HotFix)
 
 ### 安卓开发值得关注的库
  - [SugarTask](https://github.com/mthli/SugarTask)
