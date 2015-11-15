@@ -9,6 +9,8 @@
  - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
 
+### Android Hybrid 技术
+ - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
 
 ### React Native 专题
  - [Facebook的react-native](http://facebook.github.io/react-native/)
@@ -96,6 +98,7 @@
  - [awesome-android](https://github.com/JStumpp/awesome-android)
  - [Retrofit相关文章](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
  - [Lite Android](http://litesuits.com/)
+ - [Bugly Blog](http://bugly.qq.com/blog/)
 
  
 ### Android 开源软件
