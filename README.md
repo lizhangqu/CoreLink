@@ -197,6 +197,7 @@
  - [AndFix](https://github.com/alibaba/AndFix)
  - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
  - [QQ空间热修复实现方案](https://github.com/dodola/HotFix)
+ - [Nuwa 女娲](https://github.com/jasonross/Nuwa)
 
 ### 安卓开发值得关注的库
  - [SugarTask](https://github.com/mthli/SugarTask)
