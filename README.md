@@ -11,6 +11,7 @@
 
 ### Android Hybrid 技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
+ - [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
 
 ### React Native 专题
  - [Facebook的react-native](http://facebook.github.io/react-native/)
