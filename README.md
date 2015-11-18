@@ -34,6 +34,7 @@
  - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
 
 ### Android Studio专题
+ - [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
  - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
