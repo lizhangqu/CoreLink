@@ -14,6 +14,7 @@
  - [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
 
 ### React Native 专题
+ - [React-Native学习指南](https://github.com/ele828/react-native-guide)
  - [Facebook的react-native](http://facebook.github.io/react-native/)
  - [React Native: 配置和起步](http://www.liaohuqiu.net/cn/posts/react-native-1/)
  - [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
