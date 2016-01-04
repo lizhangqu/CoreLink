@@ -14,6 +14,7 @@
  - [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
 
 ### React Native 专题
+ - [React-native-Android-热更新](http://richard-cao.github.io/2015/12/03/React-native-Android-热更新/)
  - [React-Native学习指南](https://github.com/ele828/react-native-guide)
  - [Facebook的react-native](http://facebook.github.io/react-native/)
  - [React Native: 配置和起步](http://www.liaohuqiu.net/cn/posts/react-native-1/)
@@ -35,6 +36,7 @@
  - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
 
 ### Android Studio专题
+ - [Android Studio 你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
  - [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
