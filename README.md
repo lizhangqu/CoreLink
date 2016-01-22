@@ -8,6 +8,7 @@
  - [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
  - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
+ - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
 
 ### Android Hybrid 技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
