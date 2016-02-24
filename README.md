@@ -1,6 +1,6 @@
 
 ## Android 开发中的日常积累
-
+[jinribanjia://bj/home](jinribanjia://bj/home)
 ### Android 性能优化
  - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
  - [胡凯-性能优化](http://hukai.me/blog/archives/)
