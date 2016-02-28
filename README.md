@@ -134,6 +134,8 @@
  - [百度ApiStore](http://apistore.baidu.com/)
  - [Vim插件](https://github.com/vim-scripts/Auto-Pairs)
  - [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
+ - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)
+ - [Markdown-Syntax-CN](https://github.com/judasn/Markdown-Syntax-CN)
 
  
 ### Android 推送（含IM）
