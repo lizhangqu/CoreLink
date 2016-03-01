@@ -206,6 +206,7 @@
  - [携程DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
  - [美团分包](http://tech.meituan.com/mt-android-auto-split-dex.html)
  - [微信/手Q加载方案](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+ - [Small](https://github.com/wequick/Small)
 
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
