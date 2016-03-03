@@ -80,6 +80,7 @@
  - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 ### Android 开发中值得看的优秀内容和工具
+ - [贾吉鑫](http://jiajixin.cn)
  - [TraceView性能优化工具使用](http://wangxinghe.me/blog/2016-02-25/android-tools-traceview/)
  - [network-connection-class](https://github.com/facebook/network-connection-class)
  - [阿里巴巴技术文章](https://github.com/amfe/article)
