@@ -39,6 +39,7 @@
  - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
 
 ### Android Studio专题
+ - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
  - [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
  - [Android Studio 你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
  - [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
