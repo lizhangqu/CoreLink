@@ -100,6 +100,7 @@
  - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 ### Android 开发中值得看的优秀内容和工具
+ - [Android系统源码查看，支持在线跟踪引用](http://androidxref.com)
  - [贾吉鑫](http://jiajixin.cn)
  - [TraceView性能优化工具使用](http://wangxinghe.me/blog/2016-02-25/android-tools-traceview/)
  - [network-connection-class](https://github.com/facebook/network-connection-class)
