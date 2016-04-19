@@ -60,6 +60,7 @@
  - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
 
 ### Android Studio专题
+ - [查看依赖关系的插件](https://github.com/rholder/gradle-view)
  - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
  - [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
  - [Android Studio 你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
