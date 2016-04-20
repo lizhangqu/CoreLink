@@ -94,6 +94,8 @@
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
 
 ### RxJava与RxAndroid学习资源
+ 
+ - [ReLinker 安全加载so库的方式](https://github.com/KeepSafe/ReLinker)
  - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
  - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
