@@ -1,6 +1,14 @@
 
 ## Android 开发中的日常积累
 
+>关于我
+ - [CSDN博客-安卓弟](http://blog.csdn.net/sbsujjbcy)
+ - [github博客-基本不更](https://lizhangqu.github.io/)
+ - [新浪微博-_安卓弟](http://www.weibo.com/u/3262478847/home)
+ - [知乎-安卓弟](https://www.zhihu.com/people/zhangqu-li)
+ - [邮箱-li330324@gmail.com](li330324@gmail.com)
+ - [就职-微店](http://www.weidian.com/)
+
 ### Android 性能优化
  - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
  - [胡凯-性能优化](http://hukai.me/blog/archives/)
