@@ -2,6 +2,7 @@
 ## Android 开发中的日常积累
 
 >关于我
+ - 区长，安卓弟
  - [CSDN博客-安卓弟](http://blog.csdn.net/sbsujjbcy)
  - [github博客-基本不更](https://lizhangqu.github.io/)
  - [新浪微博-_安卓弟](http://www.weibo.com/u/3262478847/home)
