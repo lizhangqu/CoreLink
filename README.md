@@ -16,7 +16,8 @@
  - [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
  - [WebView中接口隐患与手机挂马利用](http://drops.wooyun.org/papers/548)
 
-### React Native 专题
+### React Native 与 Weex 专题
+ - [weex](http://alibaba.github.io/weex/)
  - [React Native专题系列文章更新ing(涉及基础,组件,进阶以及开源项目)](http://www.lcode.org/react-native/)
  - [React-native-Android-热更新](http://richard-cao.github.io/2015/12/03/React-native-Android-热更新/)
  - [React-Native学习指南](https://github.com/ele828/react-native-guide)
@@ -39,6 +40,7 @@
  - [微信/手Q加载方案](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
  - [Small](https://github.com/wequick/Small)
  - [Android博客周刊专题之《插件化开发》](http://www.androidblog.cn/index.php/Index/detail/id/16)
+ - [Fast load dex in memory](https://github.com/asLody/TurboDex)
 
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
@@ -102,8 +104,15 @@
  - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
  - [在正确的线程上观察](http://www.jianshu.com/p/72911b9ba2d7)
  - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+ - [谜之RxJava （一） —— 最基本的观察者模式](https://segmentfault.com/a/1190000004049490)
+ - [谜之RxJava （二） —— Magic Lift](https://segmentfault.com/a/1190000004049841)
+ - [迷之RxJava （三）—— 线程切换](https://segmentfault.com/a/1190000004051191)
+ - [迷之RxJava （三）update —— 线程切换（二）](https://segmentfault.com/a/1190000004855661)
+ - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
+ - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
 
 ### Android 开发中值得看的优秀内容和工具
+ - [OS X 下使用 Hexo 和 Coding Pages 搭建静态博客](http://www.eyrefree.org/2016/03/23/2016-03-23-Hexo-Coding-Pages/)
  - [Android系统源码查看，支持在线跟踪引用](http://androidxref.com)
  - [贾吉鑫](http://jiajixin.cn)
  - [TraceView性能优化工具使用](http://wangxinghe.me/blog/2016-02-25/android-tools-traceview/)
