@@ -139,6 +139,7 @@
  - [Retrofit相关文章](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
  - [Lite Android](http://litesuits.com/)
  - [Bugly Blog](http://bugly.qq.com/blog/)
+ - [掘金](http://gold.xitu.io/#/tag/Android)
 
  
 ### Android 开源软件
