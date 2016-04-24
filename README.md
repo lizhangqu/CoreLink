@@ -51,6 +51,7 @@
  - [Small](https://github.com/wequick/Small)
  - [Android博客周刊专题之《插件化开发》](http://www.androidblog.cn/index.php/Index/detail/id/16)
  - [Fast load dex in memory](https://github.com/asLody/TurboDex)
+ - [Android Plugin Framework 插件开发框架及示例程序，原理介绍等](https://github.com/limpoxe/Android-Plugin-Framework)
 
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
