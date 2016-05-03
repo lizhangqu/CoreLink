@@ -27,6 +27,7 @@
 
 ### React Native 与 Weex 专题
  - [weex](http://alibaba.github.io/weex/)
+ - [深入源码探索 ReactNative 通信机制](https://segmentfault.com/a/1190000004586390)
  - [React Native首屏白屏优化](https://segmentfault.com/a/1190000004743424)
  - [React Native专题系列文章更新ing(涉及基础,组件,进阶以及开源项目)](http://www.lcode.org/react-native/)
  - [React-native-Android-热更新](http://richard-cao.github.io/2015/12/03/React-native-Android-热更新/)
