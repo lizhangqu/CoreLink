@@ -2,11 +2,11 @@
 ## Android 开发中的日常积累
 
 >关于我
- - 区长，安卓弟
- - [CSDN博客-安卓弟](http://blog.csdn.net/sbsujjbcy)
+ - 区长
+ - [CSDN博客-区长](http://blog.csdn.net/sbsujjbcy)
  - [github博客-基本不更](https://lizhangqu.github.io/)
- - [新浪微博-_安卓弟](http://www.weibo.com/u/3262478847/home)
- - [知乎-安卓弟](https://www.zhihu.com/people/zhangqu-li)
+ - [新浪微博-_区长](http://www.weibo.com/u/3262478847/home)
+ - [知乎-区长](https://www.zhihu.com/people/zhangqu-li)
  - [邮箱-li330324@gmail.com](li330324@gmail.com)
  - [就职-微店](http://www.weidian.com/)
 
