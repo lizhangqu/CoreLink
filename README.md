@@ -106,6 +106,7 @@
  - [http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
  - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
+ - [Android Studio 插件整理 48 个](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
 
 ### RxJava与RxAndroid学习资源
  
@@ -122,6 +123,7 @@
  - [迷之RxJava （三）update —— 线程切换（二）](https://segmentfault.com/a/1190000004855661)
  - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
  - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
+ - [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 ### Android 开发中值得看的优秀内容和工具
  - [安卓架构文章合集（a collection of android Architecture）](https://github.com/CameloeAnthony/AndroidArchitectureCollection/blob/master/README.md)
@@ -284,6 +286,7 @@
  - [左滑粒子删除效果](https://github.com/ZhaoKaiQiang/ParticleLayout)
  - [JSON Server：零编码快速“伪造” REST API](https://github.com/typicode/json-server)
  - [owncloud](https://github.com/owncloud/)
+ - [Android_Data (Android 学习资料收集)](https://github.com/Freelander/Android_Data)
 
  
 ### 安卓资源相关
