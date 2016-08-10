@@ -124,6 +124,7 @@
  - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
 
 ### Android 开发中值得看的优秀内容和工具
+ - [Java源码生成（Square JavaWriter）](https://github.com/square/javapoet)
  - [安卓架构文章合集（a collection of android Architecture）](https://github.com/CameloeAnthony/AndroidArchitectureCollection/blob/master/README.md)
  - [OS X 下使用 Hexo 和 Coding Pages 搭建静态博客](http://www.eyrefree.org/2016/03/23/2016-03-23-Hexo-Coding-Pages/)
  - [Android系统源码查看，支持在线跟踪引用](http://androidxref.com)
