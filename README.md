@@ -62,6 +62,7 @@
  - [Android博客周刊专题之《插件化开发》](http://www.androidblog.cn/index.php/Index/detail/id/16)
  - [Fast load dex in memory](https://github.com/asLody/TurboDex)
  - [Android Plugin Framework 插件开发框架及示例程序，原理介绍等](https://github.com/limpoxe/Android-Plugin-Framework)
+ - [获取主dex](https://github.com/lizhangqu/MainDex)
 
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
@@ -89,6 +90,9 @@
  - [Android apk包res 资源混淆工具](https://github.com/joker535/Baffle)
  - [微信资源混淆](https://github.com/shwenzhang/AndResGuard)
  - [美团Android资源混淆保护实践](http://tech.meituan.com/mt-android-resource-obfuscation.html)
+ - [美团Android资源混淆实现方案](https://github.com/JohnnyYin/ResProguard)
+ - [Apk脱壳圣战之---如何脱掉“360加固”的壳](https://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229991&idx=1&sn=0fc62c65609143936d10849de6eb8069&scene=2&srcid=0629LJbsgjl7ctiSLYjRYXf5&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a22350257773584f0e2dc2ae515c3e0b8779155f7a039c04e16a736510fe4d44b761a3f2b651a43b&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [Android脱壳圣战之---如何脱掉"爱加密"家的保护壳](http://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229983&idx=1&sn=de2bd1a408d74e102ecd13a05512d1fa&scene=21#wechat_redirect)
 
 ### Android Studio专题
  - [查看依赖关系的插件](https://github.com/rholder/gradle-view)
@@ -139,6 +143,11 @@
  - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
  - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
 
+### Gradle
+ - [Android Gradle 构建系统·初探](https://mp.weixin.qq.com/s?__biz=MzIzNTA3MjQwNw==&mid=2650672318&idx=1&sn=74fb2afc4e409be3014ea83aa623a792&scene=2&srcid=0814iBs3jyLcRldTGb3oqFIT&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8ab813a673c218977220f758d689261e1700639f2be2698a142186e9c68a3727f6e55683cee9ee94e&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [Gradle系列之从init.gradle说起](http://blog.csdn.net/sbsujjbcy/article/details/52079413)
+ - [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+
 ### Android 开发中值得看的优秀内容和工具
  - [Java源码生成（Square JavaWriter）](https://github.com/square/javapoet)
  - [安卓架构文章合集（a collection of android Architecture）](https://github.com/CameloeAnthony/AndroidArchitectureCollection/blob/master/README.md)
@@ -180,7 +189,31 @@
  - [Bugly Blog](http://bugly.qq.com/blog/)
  - [掘金](http://gold.xitu.io/#/tag/Android)
 
+### 安卓网络层(包含图片)
+ - [okhttp](https://github.com/square/okhttp)
+ - [retrofit](https://github.com/square/retrofit)
+ - [picasso](http://square.github.io/picasso/)
+ - [Volley](https://android.googlesource.com/platform/frameworks/volley)
+ - [fresco](https://github.com/facebook/fresco)
+ - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+ - [robospice](https://github.com/stephanenicolas/robospice)
+ - [android-async-http](http://loopj.com/android-async-http/)
+
+
+### 安卓orm框架，用得比较多的就GreenDao，Ormlite
+ - [greenDAO](http://greendao-orm.com/)
+ - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml)
+ - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
+ - [SugarORM](http://satyan.github.io/sugar/index.html)
+ - [Siminov](http://siminov.github.io/android-orm/)
+ - [androrm](http://www.androrm.net/)
+ - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
  
+### 安卓Json解析
+ - [Gson,用法简单，速度慢](https://github.com/google/gson)
+ - [fastjson，号称最快](https://github.com/alibaba/fastjson)
+ - [jackson](https://github.com/FasterXML/jackson)
+
 ### Android 开源软件
  - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
  - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
@@ -240,31 +273,6 @@
  - [bmob支付，Bmob为广大开发人员提供的统一、正规的收费手段，让没有企业认证的个人开发者，也能通过支付宝和微信向用户收费](http://docs.bmob.cn/androidpay/index.html?menukey=fast_start&key=start_android_pay)
  - [容联云通讯](http://www.yuntongxun.com/ability/toPriceTariff)
 
-### 安卓网络层(包含图片)
- - [okhttp](https://github.com/square/okhttp)
- - [retrofit](https://github.com/square/retrofit)
- - [picasso](http://square.github.io/picasso/)
- - [Volley](https://android.googlesource.com/platform/frameworks/volley)
- - [fresco](https://github.com/facebook/fresco)
- - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
- - [robospice](https://github.com/stephanenicolas/robospice)
- - [android-async-http](http://loopj.com/android-async-http/)
-
-
-### 安卓orm框架，用得比较多的就GreenDao，Ormlite
- - [greenDAO](http://greendao-orm.com/)
- - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml)
- - [ActiveAndroid](https://github.com/pardom/ActiveAndroid/wiki/Getting-started )
- - [SugarORM](http://satyan.github.io/sugar/index.html)
- - [Siminov](http://siminov.github.io/android-orm/)
- - [androrm](http://www.androrm.net/)
- - [cupboard](https://bitbucket.org/qbusict/cupboard/wiki/GettingStarted)
- 
-### 安卓Json解析
- - [Gson,用法简单，速度慢](https://github.com/google/gson)
- - [fastjson，号称最快](https://github.com/alibaba/fastjson)
- - [jackson](https://github.com/FasterXML/jackson)
- 
 
 ### 安卓开发值得关注的库
  
