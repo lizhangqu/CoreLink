@@ -17,6 +17,7 @@
  - [HTTP/2 资料汇总](https://imququ.com/post/http2-resource.html)
  - [HTTP 2.0的那些事](http://mrpeak.cn/blog/http2/)
  - [http2-spec](https://http2.github.io/http2-spec/#malformed)
+ - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
 
 ### Android 性能优化
  - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
@@ -26,6 +27,7 @@
  - [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
  - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
+ - [Android Splash页秒开 Activity白屏 Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
 
 ### Android Hybrid&JSBridge技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
@@ -49,6 +51,8 @@
  - [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
  - [react-native-viewpager](https://github.com/race604/react-native-viewpager)
  - [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
+ - [【React Native for Android】jsBridge实现原理](http://blog.desmondyao.com/2016/07/02/rn-bridge/)
+ - [其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
 
 
 ### Android插件化开发与动态加载
@@ -63,6 +67,10 @@
  - [Fast load dex in memory](https://github.com/asLody/TurboDex)
  - [Android Plugin Framework 插件开发框架及示例程序，原理介绍等](https://github.com/limpoxe/Android-Plugin-Framework)
  - [获取主dex](https://github.com/lizhangqu/MainDex)
+ - [应用双开VirtualApp](https://github.com/asLody/VirtualApp)
+ - [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/)
+ - [掌阅-最简单易懂的Android插件补丁框架](https://github.com/iReaderAndroid/ZeusPlugin)
+ - [ANROID动态加载技术 系列索引](https://zhuanlan.zhihu.com/p/20515113)
 
 ### Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
@@ -78,6 +86,11 @@
  - [Android aapt实现资源分区（补充携程aapt源码）](http://blog.csdn.net/sbsujjbcy/article/details/51405207)
  - [Android 热修复使用Gradle Plugin1.5改造Nuwa插件](http://blog.csdn.net/sbsujjbcy/article/details/50839263)
  - [Android 热修复Nuwa的原理及Gradle插件源码解析](http://blog.csdn.net/sbsujjbcy/article/details/50812674)
+ - [Tinker_imitator](https://github.com/zzz40500/Tinker_imitator)
+ - [ZeusPlugin插件框架热修复gradle插件源码](https://github.com/iReaderAndroid/PatchPluginForZeus)
+ - [RocooFix](https://github.com/dodola/RocooFix)
+ - [ Android Classloader热修复技术之百家齐放](http://blog.csdn.net/sbsujjbcy/article/details/51760578)
+ - [从Instant-Run出发，谈谈Android上的热修复](http://zjutkz.net/2016/05/10/%E4%BB%8EInstant-Run%E5%87%BA%E5%8F%91%EF%BC%8C%E8%B0%88%E8%B0%88Android%E4%B8%8A%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D/)
 
 
  
@@ -93,14 +106,13 @@
  - [美团Android资源混淆实现方案](https://github.com/JohnnyYin/ResProguard)
  - [Apk脱壳圣战之---如何脱掉“360加固”的壳](https://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229991&idx=1&sn=0fc62c65609143936d10849de6eb8069&scene=2&srcid=0629LJbsgjl7ctiSLYjRYXf5&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a22350257773584f0e2dc2ae515c3e0b8779155f7a039c04e16a736510fe4d44b761a3f2b651a43b&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
  - [Android脱壳圣战之---如何脱掉"爱加密"家的保护壳](http://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229983&idx=1&sn=de2bd1a408d74e102ecd13a05512d1fa&scene=21#wechat_redirect)
+ - [一键生成项目混淆代码插件](https://github.com/zhonghanwen/AndroidProguardPlugin)
 
 ### Android Studio专题
  - [查看依赖关系的插件](https://github.com/rholder/gradle-view)
- - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
  - [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
  - [Android Studio 你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
  - [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
- - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [idea-live-templates 模板](https://github.com/keyboardsurfer/idea-live-templates)
  - [方法数统计插件，可用于统计是否达到65536个方法](https://github.com/KeepSafe/dexcount-gradle-plugin)
  - [Android-Drawable-Importer插件](https://github.com/winterDroid/android-drawable-importer-intellij-plugin)
@@ -128,7 +140,7 @@
  - [Android Studio插件开发](http://jiajixin.cn/2015/10/11/android-studio-plugin-dev/)
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
 
-### RxJava与RxAndroid学习资源
+### RxJava&&RxAndroid&&agera学习资源
 
  - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
  - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
@@ -142,13 +154,22 @@
  - [迷之RxJava （三）update —— 线程切换（二）](https://segmentfault.com/a/1190000004855661)
  - [迷之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别](https://segmentfault.com/a/1190000004856071)
  - [迷之RxJava（四）—— Retrofit和RxJava的基情](https://segmentfault.com/a/1190000004077117)
+ - [android-agera](https://code-labs.cn/codelabs/android-agera/#0)
+ - [agera](https://github.com/google/agera/wiki)
 
 ### Gradle
+ - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
+ - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [Android Gradle 构建系统·初探](https://mp.weixin.qq.com/s?__biz=MzIzNTA3MjQwNw==&mid=2650672318&idx=1&sn=74fb2afc4e409be3014ea83aa623a792&scene=2&srcid=0814iBs3jyLcRldTGb3oqFIT&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8ab813a673c218977220f758d689261e1700639f2be2698a142186e9c68a3727f6e55683cee9ee94e&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
  - [Gradle系列之从init.gradle说起](http://blog.csdn.net/sbsujjbcy/article/details/52079413)
  - [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 
 ### Android 开发中值得看的优秀内容和工具
+ - [使用 CheckStyle 检查代码](http://gudong.name/2016/04/07/checkstyle.html)
+ - [图解 Retrofit - ServiceMethod](http://www.jianshu.com/p/3518cf8c6e4c)
+ - [OkHttp3源码分析-综述](http://www.jianshu.com/p/aad5aacd79bf)
+ - [Android进程保活招式大全](http://dev.qq.com/topic/57ac4a0ea374c75371c08ce8)
+ - [08/07 北京 GDG Android Meetup 活动回顾，讲义，照片](https://mp.weixin.qq.com/s?__biz=MzA5MDg3MjczMg==&mid=2652003543&idx=1&sn=849c06ac198cbfe9cdcfae90b2a17021&scene=1&srcid=0815jxyNu3OlM7PEE8PGhNYa&key=305bc10ec50ec19b21a47f33276f15cf9aee4503429d7392ce9c57f25fe26abae9fb7cffaa188ed67fd7057f3bbdd764&ascene=0&uin=MTM5ODYyMTY4Mg%3D%3D)
  - [Java源码生成（Square JavaWriter）](https://github.com/square/javapoet)
  - [安卓架构文章合集（a collection of android Architecture）](https://github.com/CameloeAnthony/AndroidArchitectureCollection/blob/master/README.md)
  - [OS X 下使用 Hexo 和 Coding Pages 搭建静态博客](http://www.eyrefree.org/2016/03/23/2016-03-23-Hexo-Coding-Pages/)
@@ -198,6 +219,7 @@
  - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
  - [robospice](https://github.com/stephanenicolas/robospice)
  - [android-async-http](http://loopj.com/android-async-http/)
+ - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 
 
 ### 安卓orm框架，用得比较多的就GreenDao，Ormlite
@@ -214,6 +236,10 @@
  - [fastjson，号称最快](https://github.com/alibaba/fastjson)
  - [jackson](https://github.com/FasterXML/jackson)
 
+### Android 单元测试
+ - [使用Mockito和Roboletric进行Android单元测试](http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483744&idx=1&sn=e322c5dc19952c563e00a24815399300&scene=0#wechat_redirect)
+ - [Robolectric](http://robolectric.org/)
+
 ### Android 开源软件
  - [一个第三方开源微博](https://github.com/wangdan/AisenWeiBo)
  - [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
@@ -225,6 +251,7 @@
 
 
 ### Android 开发辅助工具
+ - [Charles 从入门到精通](http://gold.xitu.io/entry/56488b7660b20fc9b9c2f0be)
  - [Google Play APK下载器](http://apps.evozi.com/apk-downloader/)
  - [slideshare](http://www.slideshare.net/)
  - [codota代码片段搜索，支持Chrome和Android Studio](https://www.codota.com/)
@@ -275,12 +302,14 @@
 
 
 ### 安卓开发值得关注的库
- 
+ - [方法自动生成](https://projectlombok.org/)
+ - [Android上的一个蛛网评分控件](https://github.com/xiaopansky/SpiderWebScoreView)
  - [ReLinker 安全加载so库的方式](https://github.com/KeepSafe/ReLinker)
  - [SugarTask](https://github.com/mthli/SugarTask)
  - [sync adapter](https://github.com/taoliuh/v2ex)
  - [Android Weak Handler防止内存泄露](https://github.com/badoo/android-weak-handler)
  - [Android Priority Job Queue 异步任务调度](https://github.com/path/android-priority-jobqueue)
+ - [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue)
  - [Android对话框](https://github.com/H07000223/FlycoDialog_Master)
  - [扩展的RecyclerView，拥有添加头、底等多种操作](https://github.com/tianzhijiexian/ExRecyclerView/)
  - [MaterialDesign相关库](https://github.com/lightSky/Awesome-MaterialDesign)
@@ -332,6 +361,7 @@
 ### git
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
  - [用 Git Hooks 进行自动部署](http://segmentfault.com/a/1190000003836345?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+ - [Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)
 
 
 ### Android NoSql
