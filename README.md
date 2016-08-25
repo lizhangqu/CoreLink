@@ -31,9 +31,9 @@
 
 ### Android Hybrid&JSBridge技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
- - [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
- - [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
- - [WebView中接口隐患与手机挂马利用](http://drops.wooyun.org/papers/548)
+ - [谈谈App混合开发](http://www.tuicool.com/articles/m6RVFfA)
+ - [在WebView中如何让JS与Java安全地互相调用](http://blog.csdn.net/xyz_lmn/article/details/39399225)
+ - [WebView中接口隐患与手机挂马利用](http://blog.csdn.net/marshalchen/article/details/11124541)
  - [ Android JSBridge的原理与实现](http://blog.csdn.net/sbsujjbcy/article/details/50752595)
 
 ### React Native 与 Weex 专题
