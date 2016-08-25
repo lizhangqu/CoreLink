@@ -27,11 +27,12 @@
  - [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
  - [blockcanary-轻松找出Android App界面卡顿元凶](https://github.com/moduth/blockcanary)
 
-### Android Hybrid 技术
+### Android Hybrid&JSBridge技术
  - [浅谈Hybrid技术的设计与实现](http://www.cnblogs.com/yexiaochai/p/4921635.html)
  - [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
  - [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
  - [WebView中接口隐患与手机挂马利用](http://drops.wooyun.org/papers/548)
+ - [ Android JSBridge的原理与实现](http://blog.csdn.net/sbsujjbcy/article/details/50752595)
 
 ### React Native 与 Weex 专题
  - [weex](http://alibaba.github.io/weex/)
@@ -68,6 +69,14 @@
  - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
  - [QQ空间热修复实现方案](https://github.com/dodola/HotFix)
  - [Nuwa 女娲](https://github.com/jasonross/Nuwa)
+ - [Android HotPatch从入门到“放弃”](https://mp.weixin.qq.com/s?__biz=MzIzMDEyNzM4NQ==&mid=2650956297&idx=1&sn=f4bfdd7b16f95b6d34c6f34d8ce392e0&scene=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a8b56c7ea2bb2868382d9036f67165867c202e363b23bb4e596335de9da22825b530281867b47449&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [Android Patch 方案与持续交付](http://wereadteam.github.io/2016/07/26/AndroidPatch/?from=timeline&isappinstalled=0)
+ - [Android N混合编译与对热补丁影响解析](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286341&idx=1&sn=054d595af6e824cbe4edd79427fc2706&scene=2&srcid=0804Rg6BqGmPSPyeUOOLXds3&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e86d7c5f57902ee2b81f05b64d1b6baf39ba9ad8115ea453e72d5d9f36a58c506d01f2a84e9b6c2eca&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [微信Android热补丁实践演进之路](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8857eb5c8144bf27076228deefafb6a0afd4416d54ed479daa6a67f0363c96df893d5cf4e4d3db423&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
+ - [Android热更新之so库的热更新](http://blog.csdn.net/sbsujjbcy/article/details/51475499)
+ - [Android aapt实现资源分区（补充携程aapt源码）](http://blog.csdn.net/sbsujjbcy/article/details/51405207)
+ - [Android 热修复使用Gradle Plugin1.5改造Nuwa插件](http://blog.csdn.net/sbsujjbcy/article/details/50839263)
+ - [Android 热修复Nuwa的原理及Gradle插件源码解析](http://blog.csdn.net/sbsujjbcy/article/details/50812674)
 
 
  
@@ -116,8 +125,7 @@
  - [Android SDK镜像服务器搭建](http://jiajixin.cn/2015/10/11/android-sdk-mirror/)
 
 ### RxJava与RxAndroid学习资源
- 
- - [ReLinker 安全加载so库的方式](https://github.com/KeepSafe/ReLinker)
+
  - [RxJava Github地址](https://github.com/ReactiveX/RxJava/)
  - [RxAndroid Github地址](https://github.com/ReactiveX/RxAndroid)
  - [RxJava中文文档翻译](https://github.com/mcxiaoke/RxDocs)
@@ -259,6 +267,8 @@
  
 
 ### 安卓开发值得关注的库
+ 
+ - [ReLinker 安全加载so库的方式](https://github.com/KeepSafe/ReLinker)
  - [SugarTask](https://github.com/mthli/SugarTask)
  - [sync adapter](https://github.com/taoliuh/v2ex)
  - [Android Weak Handler防止内存泄露](https://github.com/badoo/android-weak-handler)
