@@ -94,6 +94,7 @@
  - [RocooFix](https://github.com/dodola/RocooFix)
  - [ Android Classloader热修复技术之百家齐放](http://blog.csdn.net/sbsujjbcy/article/details/51760578)
  - [从Instant-Run出发，谈谈Android上的热修复](http://zjutkz.net/2016/05/10/%E4%BB%8EInstant-Run%E5%87%BA%E5%8F%91%EF%BC%8C%E8%B0%88%E8%B0%88Android%E4%B8%8A%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D/)
+ - [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
 
 
  
