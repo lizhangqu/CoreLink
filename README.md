@@ -113,6 +113,10 @@
  - [Apk脱壳圣战之---如何脱掉“360加固”的壳](https://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229991&idx=1&sn=0fc62c65609143936d10849de6eb8069&scene=2&srcid=0629LJbsgjl7ctiSLYjRYXf5&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8a22350257773584f0e2dc2ae515c3e0b8779155f7a039c04e16a736510fe4d44b761a3f2b651a43b&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
  - [Android脱壳圣战之---如何脱掉"爱加密"家的保护壳](http://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229983&idx=1&sn=de2bd1a408d74e102ecd13a05512d1fa&scene=21#wechat_redirect)
  - [一键生成项目混淆代码插件](https://github.com/zhonghanwen/AndroidProguardPlugin)
+ - [Android逆向之旅---SO(ELF)文件格式详解](http://blog.csdn.net/jiangwei0910410003/article/details/49336613)
+ - [Android逆向之旅---解析编译之后的AndroidManifest文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50568487)
+ - [Android逆向之旅---解析编译之后的Resource.arsc文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50628894)
+ - [Android逆向之旅---解析编译之后的Dex文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50668549)
 
 ### Android Studio专题
  - [查看依赖关系的插件](https://github.com/rholder/gradle-view)
