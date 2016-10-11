@@ -13,6 +13,11 @@
 ### Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
 
+### 微信小程序
+ - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+ - [文档](https://github.com/Notedown-cn/wxopen)
+ - [ide破解](https://github.com/gavinkwoe/weapp-ide-crack)
+
 ### HTTP2.0
  - [测试是否支持http2.0，需翻墙](https://tools.keycdn.com/http2-test)
  - [httpvshttps](http://www.httpvshttps.com/)
