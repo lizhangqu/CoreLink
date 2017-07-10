@@ -9,6 +9,13 @@
  - [新浪微博-_区长](http://www.weibo.com/u/3262478847/home)
  - [知乎-区长](https://www.zhihu.com/people/lizhangqu)
  - [邮箱-li330324@gmail.com](li330324@gmail.com)
+ 
+### 扔物线（凯哥）的良心之作
+ - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+ - [hencoder](https://github.com/hencoder)
+ - [HenCoder：给高级 Android 工程师的进阶手册](http://hencoder.com/overview/)
+ - [Android 开发进阶: 自定义 View 1-1 绘制基础](http://hencoder.com/ui-1-1)
+
 ### Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
  
