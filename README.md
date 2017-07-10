@@ -17,6 +17,23 @@
  - [莫烦Python](https://morvanzhou.github.io/about/)
  - [TensorFlow练习](http://blog.topspeedsnail.com/)
  
+### 输入法
+ - [Creating an Input Method](https://developer.android.com/guide/topics/text/creating-input-method.html)
+ - [Image Keyboard Support](https://developer.android.com/guide/topics/text/image-keyboard.html)
+ - [谷歌拼音输入法Android Studio工程](https://github.com/lizhangqu/PinyinIME)
+ - [谷歌示例代码-全键盘输入法例子](https://android.googlesource.com/platform/development/+/master/samples/SoftKeyboard/)
+ - [android-keyboard-keys-background](http://stackoverflow.com/questions/3185237/android-keyboard-keys-background)
+ - [how-to-change-key-background-of-any-key-in-android-soft-keyboard](	http://stackoverflow.com/questions/17714172/how-to-change-key-background-of-any-key-in-android-soft-keyboard)
+ - [setting-keyboard-key-background-image/](http://burnignorance.com/android-apps-development/setting-keyboard-key-background-image/)
+ - [how-to-change-background-color-of-key-for-android-soft-keyboard](http://stackoverflow.com/questions/15789997/how-to-change-background-color-of-key-for-android-soft-keyboard)
+ - [how-to-change-background-color-or-theme-of-keys-dynamically-in-custom-keyboard-a](http://stackoverflow.com/questions/18180136/how-to-change-background-color-or-theme-of-keys-dynamically-in-custom-keyboard-a)
+ - [Keyboard.Key](https://developer.android.com/reference/android/inputmethodservice/Keyboard.Key.html)
+ - [how-to-set-different-background-of-keys-for-android-custom-keyboard](http://stackoverflow.com/questions/18224520/how-to-set-different-background-of-keys-for-android-custom-keyboard)
+ - [building-a-custom-android-keyboard](http://www.blackcj.com/blog/2016/03/30/building-a-custom-android-keyboard/)
+ - [android-emoji-keyboard](https://github.com/zeuxisoo/android-emoji-keyboard)
+ - [creating-a-softkeyboard-with-multiple-alternate-characters-per-key](https://stackoverflow.com/questions/7752580/creating-a-softkeyboard-with-multiple-alternate-characters-per-key)
+ - [禁用预览](http://stackoverflow.com/questions/7770099/how-do-you-disable-the-softkeyboard-key-preview-window)
+ 
 ### 网络栈
  - [Chromium网络栈 WolfcsTech](http://hanpfei.github.io/)
  - [chromium-net-for-android](https://github.com/lizhangqu/chromium-net-for-android)
