@@ -63,6 +63,8 @@
 
 
 ### Android插件化开发与动态加载
+ - [360的RePlugin](https://github.com/Qihoo360/RePlugin)
+ - [滴滴的VirtualAPK](https://github.com/didi/VirtualAPK)
  - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
  - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
