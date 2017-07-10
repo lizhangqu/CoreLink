@@ -14,11 +14,14 @@
  
 ### 机器学习
  - [当 Android 开发者遇见 TensorFlow](http://fucknmb.com/2017/06/02/%E5%BD%93Android%E5%BC%80%E5%8F%91%E8%80%85%E9%81%87%E8%A7%81TensorFlow/)
+ - [莫烦Python](https://morvanzhou.github.io/about/)
  
 ### 网络栈
  - [Chromium网络栈 WolfcsTech](http://hanpfei.github.io/)
  - [chromium-net-for-android](https://github.com/lizhangqu/chromium-net-for-android)
  - [CurlForAndroid](https://github.com/lizhangqu/CurlForAndroid)
+ - [chromium src](https://cs.chromium.org/chromium/src/)
+ - [libuv中文教程](http://luohaha.github.io/Chinese-uvbook/source/networking.html)
  
 ### 交叉编译
  - [cmake 交叉编译](http://fucknmb.com/2017/06/27/cmake-%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
@@ -47,6 +50,9 @@
  - [HTTP 2.0的那些事](http://mrpeak.cn/blog/http2/)
  - [http2-spec](https://http2.github.io/http2-spec/#malformed)
  - [从启用 HTTP/2 导致网站无法访问说起](https://imququ.com/post/why-tls-handshake-failed-with-http2-enabled.html?f=http://blogread.cn/)
+ - [Header Compression for HTTP/2
+](http://httpwg.org/specs/rfc7541.html)
+ - [Hypertext Transfer Protocol Version 2 ](http://httpwg.org/specs/rfc7540.html)
 
 ### Android 性能优化
  - [Android性能优化视频，文档以及工具](https://github.com/Juude/awesome-android-performance)
