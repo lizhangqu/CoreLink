@@ -21,7 +21,14 @@
  - [cmake 交叉编译](http://fucknmb.com/2017/06/27/cmake-%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
  - [Android Gradle Plugin 源码解析之 externalNativeBuild](http://fucknmb.com/2017/06/24/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B9%8BexternalNativeBuild/)
  - [NDK 交叉编译常用变量](http://fucknmb.com/2017/06/22/NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E5%B8%B8%E7%94%A8%E5%8F%98%E9%87%8F/)
+ - [Chromium 网络栈的编译与使用](http://fucknmb.com/2017/06/12/Chromium-%E7%BD%91%E7%BB%9C%E6%A0%88%E7%9A%84%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BD%BF%E7%94%A8/)
  - [CURL NDK 交叉编译](http://fucknmb.com/2017/05/24/CURL-NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
+ - [Android NDK 内存泄露检测](http://fucknmb.com/2017/06/05/Android-NDK-%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E6%A3%80%E6%B5%8B/)
+ - [libuv NDK 交叉编译](http://fucknmb.com/2017/06/04/libuv-NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
+ - [openssl NDK 交叉编译](http://fucknmb.com/2017/05/24/openssl-NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
+ - [libnghttp2 NDK 交叉编译](http://fucknmb.com/2017/05/24/libnghttp2-NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
+ - [Android Studio Library 模块中 Native 代码进行 debug 的一些坑](http://fucknmb.com/2017/05/11/Android-Studio-Library%E6%A8%A1%E5%9D%97%E4%B8%ADNative%E4%BB%A3%E7%A0%81%E8%BF%9B%E8%A1%8Cdebug%E7%9A%84%E4%B8%80%E4%BA%9B%E5%9D%91/)
+ - [Android 在 NDK 层使用 OpenSSL 进行 RSA 加密](http://fucknmb.com/2017/04/09/Android%E5%9C%A8NDK%E5%B1%82%E4%BD%BF%E7%94%A8OpenSSL%E8%BF%9B%E8%A1%8CRSA%E5%8A%A0%E5%AF%86/)
 
 ### 微信小程序
  - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
@@ -29,6 +36,7 @@
  - [ide破解](https://github.com/gavinkwoe/weapp-ide-crack)
 
 ### HTTP2.0
+ - [Https&Http2.0&HttpDNS 的那些事](http://fucknmb.com/2017/01/17/Https&Http2.0&HttpDNS%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
  - [测试是否支持http2.0，需翻墙](https://tools.keycdn.com/http2-test)
  - [httpvshttps](http://www.httpvshttps.com/)
  - [chrome 插件HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/mpbpobfflnpcgagjijhmgnchggcjblin)
