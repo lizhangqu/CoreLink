@@ -34,6 +34,12 @@
  - [creating-a-softkeyboard-with-multiple-alternate-characters-per-key](https://stackoverflow.com/questions/7752580/creating-a-softkeyboard-with-multiple-alternate-characters-per-key)
  - [禁用预览](http://stackoverflow.com/questions/7770099/how-do-you-disable-the-softkeyboard-key-preview-window)
  
+### Emoji
+ - [wiki Emoji](https://en.wikipedia.org/wiki/Emoji)
+ - [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+ - [emoji](http://www.oicqzone.com/tool/emoji/)
+ - [full-emoji-list](http://unicode.org/emoji/charts-beta/full-emoji-list.html)
+ 
 ### 网络栈
  - [Chromium网络栈 WolfcsTech](http://hanpfei.github.io/)
  - [chromium-net-for-android](https://github.com/lizhangqu/chromium-net-for-android)
