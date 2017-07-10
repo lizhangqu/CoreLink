@@ -12,6 +12,9 @@
 ### Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
  
+### 机器学习
+ - [当 Android 开发者遇见 TensorFlow](http://fucknmb.com/2017/06/02/%E5%BD%93Android%E5%BC%80%E5%8F%91%E8%80%85%E9%81%87%E8%A7%81TensorFlow/)
+ 
 ### 网络栈
  - [Chromium网络栈 WolfcsTech](http://hanpfei.github.io/)
  - [chromium-net-for-android](https://github.com/lizhangqu/chromium-net-for-android)
