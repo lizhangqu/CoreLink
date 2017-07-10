@@ -358,6 +358,7 @@
 
 
 ### 安卓开发值得关注的库
+ - [定时任务&计划任务-印象笔记android-job](https://github.com/evernote/android-job)
  - [AndroidHttpCapture 手机上抓包](https://github.com/JZ-Darkal/AndroidHttpCapture)
  - [方法自动生成](https://projectlombok.org/)
  - [Android上的一个蛛网评分控件](https://github.com/xiaopansky/SpiderWebScoreView)
