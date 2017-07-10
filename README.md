@@ -187,6 +187,10 @@
 
 
 ### Gradle
+ - [又掌握了一项新技能 - 断点调试 Gradle 插件](http://fucknmb.com/2017/07/05/%E5%8F%88%E6%8E%8C%E6%8F%A1%E4%BA%86%E4%B8%80%E9%A1%B9%E6%96%B0%E6%8A%80%E8%83%BD-%E6%96%AD%E7%82%B9%E8%B0%83%E8%AF%95Gradle%E6%8F%92%E4%BB%B6/)
+ - [Android Gradle Plugin 源码解析之 externalNativeBuild](http://fucknmb.com/2017/06/24/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B9%8BexternalNativeBuild/)
+ - [Android Gradle Plugin 源码阅读与编译](http://fucknmb.com/2017/06/01/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%8E%E7%BC%96%E8%AF%91/)
+ - [Gradle 函数复用的一点实践](http://fucknmb.com/2017/01/12/Gradle%E5%87%BD%E6%95%B0%E5%A4%8D%E7%94%A8%E7%9A%84%E4%B8%80%E7%82%B9%E5%AE%9E%E8%B7%B5/)
  - [Gradle for Android](https://segmentfault.com/a/1190000004229002)
  - [谷歌Gradle官方文档](http://google.github.io/android-gradle-dsl/current/)
  - [Android Gradle 构建系统·初探](https://mp.weixin.qq.com/s?__biz=MzIzNTA3MjQwNw==&mid=2650672318&idx=1&sn=74fb2afc4e409be3014ea83aa623a792&scene=2&srcid=0814iBs3jyLcRldTGb3oqFIT&from=timeline&isappinstalled=0&uin=MTY4NDEwODc2Mg%3D%3D&key=cf237d7ae24775e8ab813a673c218977220f758d689261e1700639f2be2698a142186e9c68a3727f6e55683cee9ee94e&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12000006&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=95LpBT0hMvr3CsOzDCiFvaRxltvzQUdRKYWgyVX2qwUNRC1PW%2Bmf8ebbmyh6bwrH)
