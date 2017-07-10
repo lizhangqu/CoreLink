@@ -132,6 +132,7 @@
  - [Android热修复与增量升级，基于微信Tinker原理](https://github.com/byteam/delta)
  - [美团Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
  - [腾讯Tinker](https://github.com/Tencent/tinker)
+ - [美团Robust](https://github.com/Meituan-Dianping/Robust)
 
 
  
