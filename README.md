@@ -12,8 +12,10 @@
 ### Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
  
-### Chromium网络栈
- - [WolfcsTech](http://hanpfei.github.io/)
+### 网络栈
+ - [Chromium网络栈 WolfcsTech](http://hanpfei.github.io/)
+ - [chromium-net-for-android](https://github.com/lizhangqu/chromium-net-for-android)
+ - [CurlForAndroid](https://github.com/lizhangqu/CurlForAndroid)
 
 ### 微信小程序
  - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
