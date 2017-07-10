@@ -16,6 +16,12 @@
  - [Chromium网络栈 WolfcsTech](http://hanpfei.github.io/)
  - [chromium-net-for-android](https://github.com/lizhangqu/chromium-net-for-android)
  - [CurlForAndroid](https://github.com/lizhangqu/CurlForAndroid)
+ 
+### 交叉编译
+ - [cmake 交叉编译](http://fucknmb.com/2017/06/27/cmake-%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
+ - [Android Gradle Plugin 源码解析之 externalNativeBuild](http://fucknmb.com/2017/06/24/Android-Gradle-Plugin%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B9%8BexternalNativeBuild/)
+ - [NDK 交叉编译常用变量](http://fucknmb.com/2017/06/22/NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E5%B8%B8%E7%94%A8%E5%8F%98%E9%87%8F/)
+ - [CURL NDK 交叉编译](http://fucknmb.com/2017/05/24/CURL-NDK%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/)
 
 ### 微信小程序
  - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
