@@ -116,21 +116,22 @@
 
 ### Android插件化开发与动态加载
  - [360的RePlugin](https://github.com/Qihoo360/RePlugin)
- - [滴滴的VirtualAPK](https://github.com/didi/VirtualAPK)
- - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
  - [360的DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
- - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+ - [滴滴的VirtualAPK](https://github.com/didi/VirtualAPK)
+ - [手淘的Atlas](https://github.com/alibaba/Atlas)
+ - [Small](https://github.com/wequick/Small)
  - [携程DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
+ - [掌阅-最简单易懂的Android插件补丁框架](https://github.com/iReaderAndroid/ZeusPlugin)
+ - [OpenAtlas，已改名为ACDD，可以在手机淘宝中见到踪影](https://github.com/bunnyblue/ACDD)
+ - [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
  - [美团分包](http://tech.meituan.com/mt-android-auto-split-dex.html)
  - [微信/手Q加载方案](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
- - [Small](https://github.com/wequick/Small)
  - [Android博客周刊专题之《插件化开发》](http://www.androidblog.cn/index.php/Index/detail/id/16)
  - [Fast load dex in memory](https://github.com/asLody/TurboDex)
  - [Android Plugin Framework 插件开发框架及示例程序，原理介绍等](https://github.com/limpoxe/Android-Plugin-Framework)
  - [获取主dex](https://github.com/lizhangqu/MainDex)
  - [应用双开VirtualApp](https://github.com/asLody/VirtualApp)
  - [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/)
- - [掌阅-最简单易懂的Android插件补丁框架](https://github.com/iReaderAndroid/ZeusPlugin)
  - [ANROID动态加载技术 系列索引](https://zhuanlan.zhihu.com/p/20515113)
 
 ### Android 热更新
