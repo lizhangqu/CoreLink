@@ -70,6 +70,7 @@
 ### Sping Boot
  - [Spring Boot文档](http://udn.yyuap.com/doc/Spring-Boot-Reference-Guide/I.%20Spring%20Boot%20Documentation/index.html)
  - [spring-boot-samples](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)
+ - [Spring Boot Examples](https://github.com/ityouknow/spring-boot-examples)
  
 ### 微信小程序
  - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
