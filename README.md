@@ -355,6 +355,7 @@
  - [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
  - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)
  - [Markdown-Syntax-CN](https://github.com/judasn/Markdown-Syntax-CN)
+ - [insight chrome 代码查看插件](https://insight.io/)
 
  
 ### Android 推送（含IM）
