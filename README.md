@@ -25,6 +25,7 @@
  - [当 Android 开发者遇见 TensorFlow](http://fucknmb.com/2017/06/02/%E5%BD%93Android%E5%BC%80%E5%8F%91%E8%80%85%E9%81%87%E8%A7%81TensorFlow/)
  - [莫烦Python](https://morvanzhou.github.io/about/)
  - [TensorFlow练习](http://blog.topspeedsnail.com/)
+ - [Tencent/ncnn](https://github.com/Tencent/ncnn)
  
 ### 输入法
  - [Creating an Input Method](https://developer.android.com/guide/topics/text/creating-input-method.html)
