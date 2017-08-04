@@ -17,6 +17,7 @@
  - [Android 开发进阶: 自定义 View 1-1 绘制基础](http://hencoder.com/ui-1-1)
  - [Android 开发进阶: 自定义 View 1-2 Paint 详解](http://hencoder.com/ui-1-2/)
  - [Android 开发进阶: 自定义 View 1-3 文字的绘制](http://hencoder.com/ui-1-3/)
+ - [Android 开发进阶: 自定义 View 1-4 Canvas 对绘制的辅助](http://hencoder.com/ui-1-4/)
 
 ### Docker
  - [awesome-docker](https://github.com/veggiemonk/awesome-docker/blob/master/README.md)
